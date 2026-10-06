@@ -1,0 +1,8 @@
+{
+  "name": "prompt-plan-scraper", "version": "1.0.0", "private": true,
+  "description": "Token-efficient prompt-driven web extraction without scraping services",
+  "type": "module", "engines": {"node": ">=22"},
+  "bin": {"prompt-scrape": "src/cli.js"},
+  "scripts": {"test": "node --test", "scrape": "node src/cli.js"},
+  "dependencies": {"ajv": "^8.17.1", "cheerio": "^1.1.2", "js-tiktoken": "^1.0.21", "playwright": "^1.55.0"}
+}

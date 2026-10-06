@@ -1,0 +1,17 @@
+{
+  "recordSelector": "a.framer-sb9jpt",
+  "fields": [
+    {
+      "name": "name",
+      "selector": "h2",
+      "attribute": "text"
+    },
+    {
+      "name": "profile_url",
+      "selector": "",
+      "attribute": "href"
+    }
+  ],
+  "nextPageSelector": null,
+  "loadMoreSelector": null
+}

@@ -1,0 +1,692 @@
+01 Advisors
+1517 Fund
+1984 Ventures
+20SALES
+20VC
+359 Capital
+42CAP
+468 Capital
+53 Stations
+62 Ventures
+645 Ventures
+8090 Industries
+83North
+8VC
+A*
+A.Capital
+a16z
+Abstract Ventures
+Accel
+Accenture Ventures
+Accomplice VC
+ACME
+Acrew Capital
+Activant Capital
+Active Capital
+Adams Street Partners
+Addition
+Adjacent
+Adobe Ventures
+Adverb Ventures
+AENU
+Afore Capital
+AGI House
+Aglaé Ventures
+AI Grant
+Airtree
+Align Ventures
+Alkeon Capital
+AlleyCorp
+Alpaca VC
+Alpha Square Group
+Alpha Wave Global
+Alpine Space Ventures
+Alstin Capital
+AltaiR Capital
+Altimeter Capital
+Altos Ventures
+Alumni Ventures
+Alven
+Amazon
+Ambush Capital
+AMD
+Amino Collective
+Amplify Partners
+Anorak Ventures
+ANRI
+Anthology Fund
+Anthos Capital
+Antler
+Anzu Partners
+Aramco Ventures
+Arben Ventures
+Array VC
+Astera Institute
+Asymmetric Capital
+Atlassian Ventures
+Atomic
+Atomico
+Audacious Ventures
+Autodesk
+Avenir
+Avid Ventures
+AVP
+Axeleo Capital
+B Capital
+Backstage Capital
+Bain Capital Ventures
+Balderton Capital
+Balerion Space Ventures
+Base10 Partners
+basecase capital
+Baseline Ventures
+Basis Set Ventures
+Battery Ventures
+BDC Capital
+Bedrock Capital
+Bek Ventures
+Benchmark
+Benhamou Global Ventures
+Bessemer Venture Partners
+Betaworks Ventures
+Better Tomorrow Ventures
+Bezos Expeditions
+BFG Partners
+BGZ
+Big Pi Capital
+BITKRAFT
+Blackbird
+BlackRock
+Blackstone
+Blackwing
+Blank Ventures
+Bling Capital
+Blitzscaling Ventures
+Blockchain Capital
+Bloomberg Beta
+Blossom Capital
+Blume Ventures
+boldstart ventures
+BOND
+Bonfire Ventures
+Boost VC
+BoxGroup
+Braidwell
+Brand Foundry Ventures
+Breega
+Breyer Capital
+Broadhaven Ventures
+Buckley Ventures
+Builders VC
+Bullhound Capital
+Bungalow Capital
+Butterfly VC
+Caffeinated Capital
+Cambrian
+Canaan Partners
+Canapi Ventures
+Cantos
+Canvas Ventures
+CapitalG
+Catalio
+Catapult Ventures
+Cathay Innovation
+Cercano
+Charge Ventures
+Chemistry
+Cherry Ventures
+Cintrifuse
+Citi Ventures
+City Light Capital
+CIV
+Clocktower Ventures
+Coatue
+Coefficient Capital
+Coinbase Ventures
+CoinFund
+Collaborative Fund
+Commerce Ventures
+CommerzVentures
+Company Ventures
+Companyon Ventures
+Compound
+Congruent Ventures
+Connect Ventures
+Construct Capital
+Contrary Capital
+Conversion Capital
+Conviction
+Coreline Ventures
+Correlation Ventures
+Cortado Ventures
+Costanoa Ventures
+Courtside Ventures
+Cowboy Ventures
+Craft Ventures
+Crane Venture Partners
+Creagis
+Creandum
+Cross Creek
+Crosslink Capital
+CrowdStrike Ventures
+CRV
+Cumberland
+Cursor Capital
+CVC
+D1 Capital Partners
+Dawn Capital
+Day One Ventures
+DCVC
+Decent Capital
+Decibel Partners
+Deciens Capital
+Defined Capital
+Definition
+defy.vc
+Dell Technologies Capital
+Delphi Ventures
+Designer Fund
+DFJ Growth
+DG Daiwa Ventures
+Dimension
+Disruptive
+Distributed Global
+Distributed Ventures
+DivcoWest
+Dragonfly
+Draper Associates
+Drive Capital
+Dropbox Ventures
+DST Global
+DVC
+Dylan Field
+e& capital
+E12 Ventures
+Earlybird VC
+EBRD VC
+Eclipse
+Eden Block
+Educapital
+eGateway Capital
+Eight Roads
+Elad Gil
+Elevation Capital
+Ellington
+Emblem
+Emergence Capital
+Emerson Collective
+Energize Capital
+Energy Impact Partners
+Engineering Capital
+Eniac Ventures
+Entrada Ventures
+Entrée Capital
+Epic Ventures
+EQT Ventures
+Equal Ventures
+Essence VC
+Eurazeo
+Evolution Equity Partners
+Expa
+Exponent
+F-Prime Capital
+F4 Fund
+Felicis
+Fidelity International Strategic Ventures
+Fifth Down Capital
+Fifth Wall
+Figma Ventures
+Fin Capital
+FinTech Collective
+Firestreak Ventures
+First Harmonic
+First Round Capital
+First Spark Ventures
+FirstMark
+Firstminute Capital
+Five V Capital
+FJ Labs
+Flex Capital
+Floodgate
+Flourish Ventures
+Flume Ventures
+Flybridge
+Footwork VC
+Forerunner Ventures
+Foundation Capital
+Founders
+Founders Fund
+Founders Inc.
+Foundry
+Framework Ventures
+Friends & Family Capital
+Frontline Ventures
+FT Partners
+FundersClub
+Future Back Ventures
+Future Positive
+Future Ventures
+G Squared
+Galaxy Ventures
+Galvanize Climate Solutions
+Garage
+Garuda Ventures
+General Atlantic
+General Catalyst
+Geodesic Capital
+Georgian
+GFT Ventures
+Giant VC
+Glade Brook Capital
+Glilot Capital Partners
+Goldman Sachs
+Goodwater Capital
+Gradient Ventures
+Grand Ventures
+GreatPoint Ventures
+Greenfield Partners
+Greenoaks
+Greycroft
+Greylock
+Grid Capital
+GS Futures
+GSV Ventures
+GV
+Hack VC
+Halo Fund
+Hanabi Capital
+Harlem Capital
+Harpoon Ventures
+Haun Ventures
+Hawke Ventures
+Haystack Ventures
+Headline
+Heartcore Capital
+Heavybit
+Hedosophia
+HF0
+High Alpha
+Highland Capital Partners
+Highland Europe
+HOF Capital
+Homebrew
+Horizons Ventures
+HubSpot Ventures
+Human Capital
+Human Ventures
+Humba Ventures
+Hummingbird VC
+Hustle Fund
+HV Capital
+Hyperion
+Hyphen Partners
+IA Ventures
+IAG Capital Partners
+Icon Ventures
+ICONIQ
+IDC Ventures
+Incore
+Index Ventures
+Indico Capital Partners
+Industry Ventures
+Infinity Ventures
+Initialized Capital
+Innovation Endeavors
+Inovia Capital
+Inovo VC
+Insight Partners
+Inspired Capital
+Intel Capital
+Interlagos
+IQT
+Irregular Expressions
+IVP
+J.P. Morgan
+Jane Street
+Javelin Venture Partners
+Kalos Ventures
+Karman Ventures
+Khosla Ventures
+Kickstart Fund
+Kin Ventures
+Kindred Ventures
+Kleiner Perkins
+Koch Investments
+Korelya Capital
+KT
+L Catterton
+La Famiglia
+Lachy Groom
+Lakestar
+Latimer Ventures
+Latitude Capital
+Laton VC
+Laude Ventures
+Lauxera Capital Partners
+Lead Edge Capital
+Leaders Fund
+Left Lane Capital
+Leitmotif
+Lerer Hippeau
+LifeX Ventures
+Lightspeed
+Lingotto
+Liquid 2 Ventures
+LiveOak Ventures
+Lobby Capital
+LocalGlobe
+Lockstep
+Lone Pine Capital
+Long Journey Ventures
+Look Up Ventures
+Lorimer Ventures
+Lowercarbon Capital
+Ludlow Ventures
+Lunar Ventures
+Lux Capital
+M12
+M13
+MaC Venture Capital
+Madrona
+Magnetar
+Mango Capital
+Mantis VC
+Maple VC
+March Capital
+Matchstick Ventures
+Matrix Partners
+Maven Ventures
+Maverick Capital
+Maverick Ventures
+Maveron
+Mayfield Fund
+Menlo Ventures
+Meritech Capital
+Merlin Ventures
+MHS Capital
+Microsoft
+Moderne Ventures
+Molten Ventures
+Monogram Capital Partners
+Moonfire Ventures
+Morgan Stanley
+Morpheus Ventures
+Mosaic Ventures
+Moth Fund
+Motivate Venture Capital
+Motive Ventures
+Motley Fool Ventures
+Mouro Capital
+Move Capital
+Moxxie Ventures
+Mucker Capital
+Multicoin Capital
+MVP Ventures
+Mythos Ventures
+N47
+NAP VC
+Natural Capital
+Navitas Capital
+NEA
+Necessary Ventures
+Neo
+Neotribe Ventures
+Netflix
+New Wave VC
+Newion
+Next Play Ventures
+Next Ventures
+Next47
+NextView Ventures
+Nexus Venture Partners
+NFDG Ventures
+NFX
+NordicNinja
+Northzone
+Norwest Venture Partners
+Notable Capital
+Notion Capital
+NVentures (Nvidia)
+O'Shaughnessy Ventures
+Oak HC/FT
+Obvious Ventures
+Octave
+Octopus Ventures
+Offline Ventures
+Okta Ventures
+Oliver Jung
+ONEVC
+OpenAI Startup Fund
+OpenView
+Operator Collective
+Operator Partners
+Oregon Venture Fund
+Origin Ventures
+Original Capital
+OSS Capital
+OTB Ventures
+Outlander VC
+Outset Capital
+Outsiders Fund
+Pace Capital
+Pale blue dot
+Panache Ventures
+Pantera Capital
+Paradigm
+Parkway VC
+Partech
+Passion Capital
+Pathlight Ventures
+Patron
+PAX
+Peak 6
+Peak XV
+PeakSpan Capital
+Pear VC
+pebblebed
+Pelion Venture Partners
+Pharsalus
+PHX Ventures
+Picus Capital
+Pillar VC
+Pioneer Fund
+Plural
+Point Nine
+Point72 Ventures
+Polychain Capital
+Portage
+Powerhouse Ventures
+Precursor Ventures
+Prelude Ventures
+Premji Invest
+Preston-Werner Ventures
+Primary
+Prime Movers Lab
+Project A
+Prometheus Fund
+Prosus Ventures
+Protagonist
+Pruven Capital
+Prysm Capital
+PSL Ventures
+PSV
+QED
+QIA
+Quadrille Capital
+Quiet Capital
+Race Capital
+Radical Ventures
+Raine
+Reach Capital
+Rebel Fund
+Rebellion Ventures
+redalpine
+Redpoint Ventures
+Renegade Partners
+Ribbit Capital
+Ridge Ventures
+Riot Ventures
+Ritual Capital
+RoboStrategy
+Robot Ventures
+Rocana Venture Partners
+Rogue Capital
+Root Ventures
+RSquared VC
+RTP Global
+RTX
+Rubio Impact Ventures
+S32
+Saga Ventures
+Salesforce Ventures
+Salt VC
+Sam Altman
+Samsung Catalyst
+Sandberg Bernthal Venture Partners
+Sapphire Ventures
+Scale Venture Partners
+SciFi VC
+ScOp Venture Capital
+Scribble Ventures
+Script Capital
+Seedcamp
+SemperVirens
+Sentinel Global
+Sequoia
+Series X Capital
+Seven Seven Six
+SHAKTI
+Shield Capital
+Shine Capital
+Shinhan Venture Investment
+Shopify Ventures
+Shrug Capital
+SIERRA Ventures
+SignalFire
+Silas Capital
+Silicon Catalyst
+Singular VC
+Sixth Street
+Slow Ventures
+Smash Capital
+Snowflake Ventures
+Snowpoint
+SNR
+Socii Capital
+Socium Ventures
+Sofina
+SoftBank Vision Fund
+Soma Capital
+Sorenson Capital
+Sound Ventures
+South Park Commons
+Sozo Ventures
+Spacecadet
+Spark Capital
+Speedinvest
+Spiral Capital
+Sprints Capital
+Square Peg
+Stage 2 Capital
+StageOne Ventures
+Standard Capital
+Standard Crypto
+Starship Ventures
+Steadview Capital
+Stellation Capital
+StepStone Group
+Sterling Road
+Streamlined Ventures
+Stripe
+Stripes
+Summit Partners
+Sunflower Capital
+Supernode Global
+Surface Ventures
+SuRo Capital
+Susa Ventures
+Sutter Hill Ventures
+SV Angel
+Sweater
+Tandem Venture Partners
+TCV
+Team Ignite Ventures
+Telescope Partners
+Temasek
+Terrain
+The General Partnership
+The Longevity Fund
+The Syndicate
+Theory Ventures
+Think + Ventures
+Third Kind Venture Capital
+Third Nature Investments
+Third Point Ventures
+Third Prime
+Thoma Bravo
+Threshold Ventures
+Thrive Capital
+Tiger Global Management
+Titanium Ventures
+Together Fund
+Tola Capital
+Topology Ventures
+Touring Capital
+TQ Ventures
+Transition
+Treble Capital
+Tribe Capital
+True Ventures
+Trust Ventures
+TSIC
+Twenty Two
+TWG Global
+Two Sigma Ventures
+Uncork Capital
+Uncorrelated Ventures
+Union Square Ventures
+Unusual Ventures
+Upfront Ventures
+UpHonest Capital
+USIT
+USVP
+V1.VC
+Valar Ventures
+Valor Equity Partners
+Vanquish
+Varsity
+Venrex
+Venrock
+Vesey Ventures
+Village Global
+Vine Ventures
+Vinyl Capital
+Visionaries Club
+VMG Partners
+Voyager Ventures
+Vy Capital
+Wa'ed Ventures
+Watertower Ventures
+Wayfinder Ventures
+Weekend Fund
+Wellington
+WestCap
+Whitecap Venture Partners
+Wikus Ventures
+Will Ventures
+Wing VC
+Wireframe VC
+Wisdom Ventures
+WndrCo
+Workday Ventures
+World Innovation Lab
+Worldbuild
+XAnge
+XTX Ventures
+XYZ
+Y Combinator
+York IE
+Zeev Ventures
+Zeno Partners
+Zigg Capital
+Zinal Growth

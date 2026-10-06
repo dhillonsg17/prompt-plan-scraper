@@ -1,0 +1,2808 @@
+{
+  "source": "https://startups.gallery/investors",
+  "fetchedAt": "2026-10-06T23:27:22.274Z",
+  "prompt": "Return all investor names in the directory, with fields name and profile_url.",
+  "count": 692,
+  "records": [
+    {
+      "name": "01 Advisors",
+      "profile_url": "https://startups.gallery/investors/01-advisors"
+    },
+    {
+      "name": "1517 Fund",
+      "profile_url": "https://startups.gallery/investors/1517-fund"
+    },
+    {
+      "name": "1984 Ventures",
+      "profile_url": "https://startups.gallery/investors/1984-ventures"
+    },
+    {
+      "name": "20SALES",
+      "profile_url": "https://startups.gallery/investors/20sales"
+    },
+    {
+      "name": "20VC",
+      "profile_url": "https://startups.gallery/investors/20vc-fund"
+    },
+    {
+      "name": "359 Capital",
+      "profile_url": "https://startups.gallery/investors/359-capital"
+    },
+    {
+      "name": "42CAP",
+      "profile_url": "https://startups.gallery/investors/42cap"
+    },
+    {
+      "name": "468 Capital",
+      "profile_url": "https://startups.gallery/investors/468-capital"
+    },
+    {
+      "name": "53 Stations",
+      "profile_url": "https://startups.gallery/investors/53-stations"
+    },
+    {
+      "name": "62 Ventures",
+      "profile_url": "https://startups.gallery/investors/62-ventures"
+    },
+    {
+      "name": "645 Ventures",
+      "profile_url": "https://startups.gallery/investors/645-ventures"
+    },
+    {
+      "name": "8090 Industries",
+      "profile_url": "https://startups.gallery/investors/8090-industries"
+    },
+    {
+      "name": "83North",
+      "profile_url": "https://startups.gallery/investors/83north"
+    },
+    {
+      "name": "8VC",
+      "profile_url": "https://startups.gallery/investors/8vc"
+    },
+    {
+      "name": "A*",
+      "profile_url": "https://startups.gallery/investors/a-capital"
+    },
+    {
+      "name": "A.Capital",
+      "profile_url": "https://startups.gallery/investors/a-capital-ventures"
+    },
+    {
+      "name": "a16z",
+      "profile_url": "https://startups.gallery/investors/andreessen-horowitz"
+    },
+    {
+      "name": "Abstract Ventures",
+      "profile_url": "https://startups.gallery/investors/abstract-ventures"
+    },
+    {
+      "name": "Accel",
+      "profile_url": "https://startups.gallery/investors/accel"
+    },
+    {
+      "name": "Accenture Ventures",
+      "profile_url": "https://startups.gallery/investors/accenture-ventures"
+    },
+    {
+      "name": "Accomplice VC",
+      "profile_url": "https://startups.gallery/investors/accomplice-vc"
+    },
+    {
+      "name": "ACME",
+      "profile_url": "https://startups.gallery/investors/acme-capital"
+    },
+    {
+      "name": "Acrew Capital",
+      "profile_url": "https://startups.gallery/investors/acrew-capital"
+    },
+    {
+      "name": "Activant Capital",
+      "profile_url": "https://startups.gallery/investors/activant-capital"
+    },
+    {
+      "name": "Active Capital",
+      "profile_url": "https://startups.gallery/investors/active-capital"
+    },
+    {
+      "name": "Adams Street Partners",
+      "profile_url": "https://startups.gallery/investors/adams-street-partners"
+    },
+    {
+      "name": "Addition",
+      "profile_url": "https://startups.gallery/investors/addition"
+    },
+    {
+      "name": "Adjacent",
+      "profile_url": "https://startups.gallery/investors/adjacent"
+    },
+    {
+      "name": "Adobe Ventures",
+      "profile_url": "https://startups.gallery/investors/adobe-ventures"
+    },
+    {
+      "name": "Adverb Ventures",
+      "profile_url": "https://startups.gallery/investors/adverb-ventures"
+    },
+    {
+      "name": "AENU",
+      "profile_url": "https://startups.gallery/investors/aenu"
+    },
+    {
+      "name": "Afore Capital",
+      "profile_url": "https://startups.gallery/investors/afore-capital"
+    },
+    {
+      "name": "AGI House",
+      "profile_url": "https://startups.gallery/investors/agi-house"
+    },
+    {
+      "name": "Aglaé Ventures",
+      "profile_url": "https://startups.gallery/investors/agla%C3%A9-ventures"
+    },
+    {
+      "name": "AI Grant",
+      "profile_url": "https://startups.gallery/investors/ai-grant"
+    },
+    {
+      "name": "Airtree",
+      "profile_url": "https://startups.gallery/investors/airtree"
+    },
+    {
+      "name": "Align Ventures",
+      "profile_url": "https://startups.gallery/investors/align-ventures"
+    },
+    {
+      "name": "Alkeon Capital",
+      "profile_url": "https://startups.gallery/investors/alkeon-capital"
+    },
+    {
+      "name": "AlleyCorp",
+      "profile_url": "https://startups.gallery/investors/alleycorp"
+    },
+    {
+      "name": "Alpaca VC",
+      "profile_url": "https://startups.gallery/investors/alpaca-vc"
+    },
+    {
+      "name": "Alpha Square Group",
+      "profile_url": "https://startups.gallery/investors/alpha-square-group"
+    },
+    {
+      "name": "Alpha Wave Global",
+      "profile_url": "https://startups.gallery/investors/alpha-wave-global"
+    },
+    {
+      "name": "Alpine Space Ventures",
+      "profile_url": "https://startups.gallery/investors/alpine-space-ventures"
+    },
+    {
+      "name": "Alstin Capital",
+      "profile_url": "https://startups.gallery/investors/alstin-capital"
+    },
+    {
+      "name": "AltaiR Capital",
+      "profile_url": "https://startups.gallery/investors/altair-capital"
+    },
+    {
+      "name": "Altimeter Capital",
+      "profile_url": "https://startups.gallery/investors/altimeter-capital"
+    },
+    {
+      "name": "Altos Ventures",
+      "profile_url": "https://startups.gallery/investors/altos-ventures"
+    },
+    {
+      "name": "Alumni Ventures",
+      "profile_url": "https://startups.gallery/investors/alumni-ventures"
+    },
+    {
+      "name": "Alven",
+      "profile_url": "https://startups.gallery/investors/alven"
+    },
+    {
+      "name": "Amazon",
+      "profile_url": "https://startups.gallery/investors/amazon"
+    },
+    {
+      "name": "Ambush Capital",
+      "profile_url": "https://startups.gallery/investors/ambush-capital"
+    },
+    {
+      "name": "AMD",
+      "profile_url": "https://startups.gallery/investors/amd"
+    },
+    {
+      "name": "Amino Collective",
+      "profile_url": "https://startups.gallery/investors/amino-collective"
+    },
+    {
+      "name": "Amplify Partners",
+      "profile_url": "https://startups.gallery/investors/amplify-partners"
+    },
+    {
+      "name": "Anorak Ventures",
+      "profile_url": "https://startups.gallery/investors/anorak-ventures"
+    },
+    {
+      "name": "ANRI",
+      "profile_url": "https://startups.gallery/investors/anri"
+    },
+    {
+      "name": "Anthology Fund",
+      "profile_url": "https://startups.gallery/investors/anthology-fund"
+    },
+    {
+      "name": "Anthos Capital",
+      "profile_url": "https://startups.gallery/investors/anthos-capital"
+    },
+    {
+      "name": "Antler",
+      "profile_url": "https://startups.gallery/investors/antler"
+    },
+    {
+      "name": "Anzu Partners",
+      "profile_url": "https://startups.gallery/investors/anzu-partners"
+    },
+    {
+      "name": "Aramco Ventures",
+      "profile_url": "https://startups.gallery/investors/aramco-ventures"
+    },
+    {
+      "name": "Arben Ventures",
+      "profile_url": "https://startups.gallery/investors/arben-ventures"
+    },
+    {
+      "name": "Array VC",
+      "profile_url": "https://startups.gallery/investors/array-vc"
+    },
+    {
+      "name": "Astera Institute",
+      "profile_url": "https://startups.gallery/investors/astera-institute"
+    },
+    {
+      "name": "Asymmetric Capital",
+      "profile_url": "https://startups.gallery/investors/asymmetric-capital"
+    },
+    {
+      "name": "Atlassian Ventures",
+      "profile_url": "https://startups.gallery/investors/atlassian-ventures"
+    },
+    {
+      "name": "Atomic",
+      "profile_url": "https://startups.gallery/investors/atomic"
+    },
+    {
+      "name": "Atomico",
+      "profile_url": "https://startups.gallery/investors/atomico"
+    },
+    {
+      "name": "Audacious Ventures",
+      "profile_url": "https://startups.gallery/investors/audacious-ventures"
+    },
+    {
+      "name": "Autodesk",
+      "profile_url": "https://startups.gallery/investors/autodesk"
+    },
+    {
+      "name": "Avenir",
+      "profile_url": "https://startups.gallery/investors/avenir"
+    },
+    {
+      "name": "Avid Ventures",
+      "profile_url": "https://startups.gallery/investors/avid-ventures"
+    },
+    {
+      "name": "AVP",
+      "profile_url": "https://startups.gallery/investors/avp-vc"
+    },
+    {
+      "name": "Axeleo Capital",
+      "profile_url": "https://startups.gallery/investors/axeleo-capital"
+    },
+    {
+      "name": "B Capital",
+      "profile_url": "https://startups.gallery/investors/b-capital"
+    },
+    {
+      "name": "Backstage Capital",
+      "profile_url": "https://startups.gallery/investors/backstage-capital"
+    },
+    {
+      "name": "Bain Capital Ventures",
+      "profile_url": "https://startups.gallery/investors/bain-capital-ventures"
+    },
+    {
+      "name": "Balderton Capital",
+      "profile_url": "https://startups.gallery/investors/balderton-capital"
+    },
+    {
+      "name": "Balerion Space Ventures",
+      "profile_url": "https://startups.gallery/investors/balerion-space-ventures"
+    },
+    {
+      "name": "Base10 Partners",
+      "profile_url": "https://startups.gallery/investors/base10-partners"
+    },
+    {
+      "name": "basecase capital",
+      "profile_url": "https://startups.gallery/investors/basecase-capital"
+    },
+    {
+      "name": "Baseline Ventures",
+      "profile_url": "https://startups.gallery/investors/baseline-ventures"
+    },
+    {
+      "name": "Basis Set Ventures",
+      "profile_url": "https://startups.gallery/investors/basis-set-ventures"
+    },
+    {
+      "name": "Battery Ventures",
+      "profile_url": "https://startups.gallery/investors/battery-ventures"
+    },
+    {
+      "name": "BDC Capital",
+      "profile_url": "https://startups.gallery/investors/bdc-capital"
+    },
+    {
+      "name": "Bedrock Capital",
+      "profile_url": "https://startups.gallery/investors/bedrock-capital"
+    },
+    {
+      "name": "Bek Ventures",
+      "profile_url": "https://startups.gallery/investors/bek-ventures"
+    },
+    {
+      "name": "Benchmark",
+      "profile_url": "https://startups.gallery/investors/benchmark"
+    },
+    {
+      "name": "Benhamou Global Ventures",
+      "profile_url": "https://startups.gallery/investors/benhamou-global-ventures"
+    },
+    {
+      "name": "Bessemer Venture Partners",
+      "profile_url": "https://startups.gallery/investors/bessemer-venture-partners"
+    },
+    {
+      "name": "Betaworks Ventures",
+      "profile_url": "https://startups.gallery/investors/betaworks-ventures"
+    },
+    {
+      "name": "Better Tomorrow Ventures",
+      "profile_url": "https://startups.gallery/investors/better-tomorrow-ventures"
+    },
+    {
+      "name": "Bezos Expeditions",
+      "profile_url": "https://startups.gallery/investors/bezos-expeditions"
+    },
+    {
+      "name": "BFG Partners",
+      "profile_url": "https://startups.gallery/investors/bfg-partners"
+    },
+    {
+      "name": "BGZ",
+      "profile_url": "https://startups.gallery/investors/bgz"
+    },
+    {
+      "name": "Big Pi Capital",
+      "profile_url": "https://startups.gallery/investors/big-pi-capital"
+    },
+    {
+      "name": "BITKRAFT",
+      "profile_url": "https://startups.gallery/investors/bitkraft"
+    },
+    {
+      "name": "Blackbird",
+      "profile_url": "https://startups.gallery/investors/blackbird"
+    },
+    {
+      "name": "BlackRock",
+      "profile_url": "https://startups.gallery/investors/blackrock"
+    },
+    {
+      "name": "Blackstone",
+      "profile_url": "https://startups.gallery/investors/blackstone"
+    },
+    {
+      "name": "Blackwing",
+      "profile_url": "https://startups.gallery/investors/blackwing"
+    },
+    {
+      "name": "Blank Ventures",
+      "profile_url": "https://startups.gallery/investors/blank-ventures"
+    },
+    {
+      "name": "Bling Capital",
+      "profile_url": "https://startups.gallery/investors/bling-capital"
+    },
+    {
+      "name": "Blitzscaling Ventures",
+      "profile_url": "https://startups.gallery/investors/blitzscaling-ventures"
+    },
+    {
+      "name": "Blockchain Capital",
+      "profile_url": "https://startups.gallery/investors/blockchain-capital"
+    },
+    {
+      "name": "Bloomberg Beta",
+      "profile_url": "https://startups.gallery/investors/bloomberg-beta"
+    },
+    {
+      "name": "Blossom Capital",
+      "profile_url": "https://startups.gallery/investors/blossom-capital"
+    },
+    {
+      "name": "Blume Ventures",
+      "profile_url": "https://startups.gallery/investors/blume-ventures"
+    },
+    {
+      "name": "boldstart ventures",
+      "profile_url": "https://startups.gallery/investors/boldstart-ventures"
+    },
+    {
+      "name": "BOND",
+      "profile_url": "https://startups.gallery/investors/bond-capital"
+    },
+    {
+      "name": "Bonfire Ventures",
+      "profile_url": "https://startups.gallery/investors/bonfire-ventures"
+    },
+    {
+      "name": "Boost VC",
+      "profile_url": "https://startups.gallery/investors/boost-vc"
+    },
+    {
+      "name": "BoxGroup",
+      "profile_url": "https://startups.gallery/investors/boxgroup"
+    },
+    {
+      "name": "Braidwell",
+      "profile_url": "https://startups.gallery/investors/braidwell"
+    },
+    {
+      "name": "Brand Foundry Ventures",
+      "profile_url": "https://startups.gallery/investors/brand-foundry-ventures"
+    },
+    {
+      "name": "Breega",
+      "profile_url": "https://startups.gallery/investors/breega"
+    },
+    {
+      "name": "Breyer Capital",
+      "profile_url": "https://startups.gallery/investors/breyer-capital"
+    },
+    {
+      "name": "Broadhaven Ventures",
+      "profile_url": "https://startups.gallery/investors/broadhaven-ventures"
+    },
+    {
+      "name": "Buckley Ventures",
+      "profile_url": "https://startups.gallery/investors/buckley-ventures"
+    },
+    {
+      "name": "Builders VC",
+      "profile_url": "https://startups.gallery/investors/builders-vc"
+    },
+    {
+      "name": "Bullhound Capital",
+      "profile_url": "https://startups.gallery/investors/bullhound-capital"
+    },
+    {
+      "name": "Bungalow Capital",
+      "profile_url": "https://startups.gallery/investors/bungalow-capital"
+    },
+    {
+      "name": "Butterfly VC",
+      "profile_url": "https://startups.gallery/investors/butterfly-vc"
+    },
+    {
+      "name": "Caffeinated Capital",
+      "profile_url": "https://startups.gallery/investors/caffeinated-capital"
+    },
+    {
+      "name": "Cambrian",
+      "profile_url": "https://startups.gallery/investors/cambrian"
+    },
+    {
+      "name": "Canaan Partners",
+      "profile_url": "https://startups.gallery/investors/canaan-ventures"
+    },
+    {
+      "name": "Canapi Ventures",
+      "profile_url": "https://startups.gallery/investors/canapi-ventures"
+    },
+    {
+      "name": "Cantos",
+      "profile_url": "https://startups.gallery/investors/cantos"
+    },
+    {
+      "name": "Canvas Ventures",
+      "profile_url": "https://startups.gallery/investors/canvas-ventures"
+    },
+    {
+      "name": "CapitalG",
+      "profile_url": "https://startups.gallery/investors/capitalg"
+    },
+    {
+      "name": "Catalio",
+      "profile_url": "https://startups.gallery/investors/catalio"
+    },
+    {
+      "name": "Catapult Ventures",
+      "profile_url": "https://startups.gallery/investors/catapult-ventures"
+    },
+    {
+      "name": "Cathay Innovation",
+      "profile_url": "https://startups.gallery/investors/cathay-innovation"
+    },
+    {
+      "name": "Cercano",
+      "profile_url": "https://startups.gallery/investors/cercano"
+    },
+    {
+      "name": "Charge Ventures",
+      "profile_url": "https://startups.gallery/investors/charge-ventures"
+    },
+    {
+      "name": "Chemistry",
+      "profile_url": "https://startups.gallery/investors/chemistry"
+    },
+    {
+      "name": "Cherry Ventures",
+      "profile_url": "https://startups.gallery/investors/cherry-ventures"
+    },
+    {
+      "name": "Cintrifuse",
+      "profile_url": "https://startups.gallery/investors/cintrifuse"
+    },
+    {
+      "name": "Citi Ventures",
+      "profile_url": "https://startups.gallery/investors/citi-ventures"
+    },
+    {
+      "name": "City Light Capital",
+      "profile_url": "https://startups.gallery/investors/city-light-capital"
+    },
+    {
+      "name": "CIV",
+      "profile_url": "https://startups.gallery/investors/civ"
+    },
+    {
+      "name": "Clocktower Ventures",
+      "profile_url": "https://startups.gallery/investors/clocktower-ventures"
+    },
+    {
+      "name": "Coatue",
+      "profile_url": "https://startups.gallery/investors/coatue"
+    },
+    {
+      "name": "Coefficient Capital",
+      "profile_url": "https://startups.gallery/investors/coefficient-capital"
+    },
+    {
+      "name": "Coinbase Ventures",
+      "profile_url": "https://startups.gallery/investors/coinbase-ventures"
+    },
+    {
+      "name": "CoinFund",
+      "profile_url": "https://startups.gallery/investors/coinfund"
+    },
+    {
+      "name": "Collaborative Fund",
+      "profile_url": "https://startups.gallery/investors/collaborative-fund"
+    },
+    {
+      "name": "Commerce Ventures",
+      "profile_url": "https://startups.gallery/investors/commerce-ventures"
+    },
+    {
+      "name": "CommerzVentures",
+      "profile_url": "https://startups.gallery/investors/commerzventures"
+    },
+    {
+      "name": "Company Ventures",
+      "profile_url": "https://startups.gallery/investors/company-ventures"
+    },
+    {
+      "name": "Companyon Ventures",
+      "profile_url": "https://startups.gallery/investors/companyon-ventures"
+    },
+    {
+      "name": "Compound",
+      "profile_url": "https://startups.gallery/investors/compound"
+    },
+    {
+      "name": "Congruent Ventures",
+      "profile_url": "https://startups.gallery/investors/congruent-ventures"
+    },
+    {
+      "name": "Connect Ventures",
+      "profile_url": "https://startups.gallery/investors/connect-ventures"
+    },
+    {
+      "name": "Construct Capital",
+      "profile_url": "https://startups.gallery/investors/construct-capital"
+    },
+    {
+      "name": "Contrary Capital",
+      "profile_url": "https://startups.gallery/investors/contrary-capital"
+    },
+    {
+      "name": "Conversion Capital",
+      "profile_url": "https://startups.gallery/investors/conversion-capital"
+    },
+    {
+      "name": "Conviction",
+      "profile_url": "https://startups.gallery/investors/conviction-capital"
+    },
+    {
+      "name": "Coreline Ventures",
+      "profile_url": "https://startups.gallery/investors/coreline-ventures"
+    },
+    {
+      "name": "Correlation Ventures",
+      "profile_url": "https://startups.gallery/investors/correlation-ventures"
+    },
+    {
+      "name": "Cortado Ventures",
+      "profile_url": "https://startups.gallery/investors/cortado-ventures"
+    },
+    {
+      "name": "Costanoa Ventures",
+      "profile_url": "https://startups.gallery/investors/costanoa-ventures"
+    },
+    {
+      "name": "Courtside Ventures",
+      "profile_url": "https://startups.gallery/investors/courtside-ventures"
+    },
+    {
+      "name": "Cowboy Ventures",
+      "profile_url": "https://startups.gallery/investors/cowboy-ventures"
+    },
+    {
+      "name": "Craft Ventures",
+      "profile_url": "https://startups.gallery/investors/craft-ventures"
+    },
+    {
+      "name": "Crane Venture Partners",
+      "profile_url": "https://startups.gallery/investors/crane-venture-partners"
+    },
+    {
+      "name": "Creagis",
+      "profile_url": "https://startups.gallery/investors/creagis"
+    },
+    {
+      "name": "Creandum",
+      "profile_url": "https://startups.gallery/investors/creandum"
+    },
+    {
+      "name": "Cross Creek",
+      "profile_url": "https://startups.gallery/investors/cross-creek"
+    },
+    {
+      "name": "Crosslink Capital",
+      "profile_url": "https://startups.gallery/investors/crosslink-capital"
+    },
+    {
+      "name": "CrowdStrike Ventures",
+      "profile_url": "https://startups.gallery/investors/crowdstrike-ventures"
+    },
+    {
+      "name": "CRV",
+      "profile_url": "https://startups.gallery/investors/crv"
+    },
+    {
+      "name": "Cumberland",
+      "profile_url": "https://startups.gallery/investors/cumberland"
+    },
+    {
+      "name": "Cursor Capital",
+      "profile_url": "https://startups.gallery/investors/cursor-capital"
+    },
+    {
+      "name": "CVC",
+      "profile_url": "https://startups.gallery/investors/cvc"
+    },
+    {
+      "name": "D1 Capital Partners",
+      "profile_url": "https://startups.gallery/investors/d1-capital-partners"
+    },
+    {
+      "name": "Dawn Capital",
+      "profile_url": "https://startups.gallery/investors/dawn-capital"
+    },
+    {
+      "name": "Day One Ventures",
+      "profile_url": "https://startups.gallery/investors/day-one-ventures"
+    },
+    {
+      "name": "DCVC",
+      "profile_url": "https://startups.gallery/investors/dcvc"
+    },
+    {
+      "name": "Decent Capital",
+      "profile_url": "https://startups.gallery/investors/decent-capital"
+    },
+    {
+      "name": "Decibel Partners",
+      "profile_url": "https://startups.gallery/investors/decibel-partners"
+    },
+    {
+      "name": "Deciens Capital",
+      "profile_url": "https://startups.gallery/investors/deciens-capital"
+    },
+    {
+      "name": "Defined Capital",
+      "profile_url": "https://startups.gallery/investors/defined-capital"
+    },
+    {
+      "name": "Definition",
+      "profile_url": "https://startups.gallery/investors/definition"
+    },
+    {
+      "name": "defy.vc",
+      "profile_url": "https://startups.gallery/investors/defy-vc"
+    },
+    {
+      "name": "Dell Technologies Capital",
+      "profile_url": "https://startups.gallery/investors/dell-technologies-capital"
+    },
+    {
+      "name": "Delphi Ventures",
+      "profile_url": "https://startups.gallery/investors/delphi-ventures"
+    },
+    {
+      "name": "Designer Fund",
+      "profile_url": "https://startups.gallery/investors/designer-fund"
+    },
+    {
+      "name": "DFJ Growth",
+      "profile_url": "https://startups.gallery/investors/dfj-growth"
+    },
+    {
+      "name": "DG Daiwa Ventures",
+      "profile_url": "https://startups.gallery/investors/dg-daiwa-ventures"
+    },
+    {
+      "name": "Dimension",
+      "profile_url": "https://startups.gallery/investors/dimension"
+    },
+    {
+      "name": "Disruptive",
+      "profile_url": "https://startups.gallery/investors/disruptive-vc"
+    },
+    {
+      "name": "Distributed Global",
+      "profile_url": "https://startups.gallery/investors/distributed-global"
+    },
+    {
+      "name": "Distributed Ventures",
+      "profile_url": "https://startups.gallery/investors/distributed-ventures"
+    },
+    {
+      "name": "DivcoWest",
+      "profile_url": "https://startups.gallery/investors/divcowest"
+    },
+    {
+      "name": "Dragonfly",
+      "profile_url": "https://startups.gallery/investors/dragonfly"
+    },
+    {
+      "name": "Draper Associates",
+      "profile_url": "https://startups.gallery/investors/draper-associates"
+    },
+    {
+      "name": "Drive Capital",
+      "profile_url": "https://startups.gallery/investors/drive-capital"
+    },
+    {
+      "name": "Dropbox Ventures",
+      "profile_url": "https://startups.gallery/investors/dropbox-ventures"
+    },
+    {
+      "name": "DST Global",
+      "profile_url": "https://startups.gallery/investors/dst-global"
+    },
+    {
+      "name": "DVC",
+      "profile_url": "https://startups.gallery/investors/dvc"
+    },
+    {
+      "name": "Dylan Field",
+      "profile_url": "https://startups.gallery/investors/dylan-field"
+    },
+    {
+      "name": "e& capital",
+      "profile_url": "https://startups.gallery/investors/e-capital"
+    },
+    {
+      "name": "E12 Ventures",
+      "profile_url": "https://startups.gallery/investors/e12-ventures"
+    },
+    {
+      "name": "Earlybird VC",
+      "profile_url": "https://startups.gallery/investors/earlybird-vc"
+    },
+    {
+      "name": "EBRD VC",
+      "profile_url": "https://startups.gallery/investors/ebrd-vc"
+    },
+    {
+      "name": "Eclipse",
+      "profile_url": "https://startups.gallery/investors/eclipse"
+    },
+    {
+      "name": "Eden Block",
+      "profile_url": "https://startups.gallery/investors/eden-block"
+    },
+    {
+      "name": "Educapital",
+      "profile_url": "https://startups.gallery/investors/educapital"
+    },
+    {
+      "name": "eGateway Capital",
+      "profile_url": "https://startups.gallery/investors/egateway-capital"
+    },
+    {
+      "name": "Eight Roads",
+      "profile_url": "https://startups.gallery/investors/eight-roads"
+    },
+    {
+      "name": "Elad Gil",
+      "profile_url": "https://startups.gallery/investors/elad-gil"
+    },
+    {
+      "name": "Elevation Capital",
+      "profile_url": "https://startups.gallery/investors/elevation-capital"
+    },
+    {
+      "name": "Ellington",
+      "profile_url": "https://startups.gallery/investors/ellington"
+    },
+    {
+      "name": "Emblem",
+      "profile_url": "https://startups.gallery/investors/emblem"
+    },
+    {
+      "name": "Emergence Capital",
+      "profile_url": "https://startups.gallery/investors/emergence-capital"
+    },
+    {
+      "name": "Emerson Collective",
+      "profile_url": "https://startups.gallery/investors/emerson-collective"
+    },
+    {
+      "name": "Energize Capital",
+      "profile_url": "https://startups.gallery/investors/energize-capital"
+    },
+    {
+      "name": "Energy Impact Partners",
+      "profile_url": "https://startups.gallery/investors/energy-impact-partners"
+    },
+    {
+      "name": "Engineering Capital",
+      "profile_url": "https://startups.gallery/investors/engineering-capital"
+    },
+    {
+      "name": "Eniac Ventures",
+      "profile_url": "https://startups.gallery/investors/eniac-ventures"
+    },
+    {
+      "name": "Entrada Ventures",
+      "profile_url": "https://startups.gallery/investors/entrada-ventures"
+    },
+    {
+      "name": "Entrée Capital",
+      "profile_url": "https://startups.gallery/investors/entr%C3%A9e-capital"
+    },
+    {
+      "name": "Epic Ventures",
+      "profile_url": "https://startups.gallery/investors/epic-ventures"
+    },
+    {
+      "name": "EQT Ventures",
+      "profile_url": "https://startups.gallery/investors/eqt-ventures"
+    },
+    {
+      "name": "Equal Ventures",
+      "profile_url": "https://startups.gallery/investors/equal-ventures"
+    },
+    {
+      "name": "Essence VC",
+      "profile_url": "https://startups.gallery/investors/essence-venture-capital"
+    },
+    {
+      "name": "Eurazeo",
+      "profile_url": "https://startups.gallery/investors/eurazeo"
+    },
+    {
+      "name": "Evolution Equity Partners",
+      "profile_url": "https://startups.gallery/investors/evolution-equity-partners"
+    },
+    {
+      "name": "Expa",
+      "profile_url": "https://startups.gallery/investors/expa"
+    },
+    {
+      "name": "Exponent",
+      "profile_url": "https://startups.gallery/investors/exponent"
+    },
+    {
+      "name": "F-Prime Capital",
+      "profile_url": "https://startups.gallery/investors/f-prime-capital"
+    },
+    {
+      "name": "F4 Fund",
+      "profile_url": "https://startups.gallery/investors/f4-fund"
+    },
+    {
+      "name": "Felicis",
+      "profile_url": "https://startups.gallery/investors/felicis"
+    },
+    {
+      "name": "Fidelity International Strategic Ventures",
+      "profile_url": "https://startups.gallery/investors/fidelity-international-strategic-ventures"
+    },
+    {
+      "name": "Fifth Down Capital",
+      "profile_url": "https://startups.gallery/investors/fifth-down-capital"
+    },
+    {
+      "name": "Fifth Wall",
+      "profile_url": "https://startups.gallery/investors/fifth-wall"
+    },
+    {
+      "name": "Figma Ventures",
+      "profile_url": "https://startups.gallery/investors/figma-ventures"
+    },
+    {
+      "name": "Fin Capital",
+      "profile_url": "https://startups.gallery/investors/fin-capital"
+    },
+    {
+      "name": "FinTech Collective",
+      "profile_url": "https://startups.gallery/investors/fintech-collective"
+    },
+    {
+      "name": "Firestreak Ventures",
+      "profile_url": "https://startups.gallery/investors/firestreak-ventures"
+    },
+    {
+      "name": "First Harmonic",
+      "profile_url": "https://startups.gallery/investors/first-harmonic"
+    },
+    {
+      "name": "First Round Capital",
+      "profile_url": "https://startups.gallery/investors/first-round-capital"
+    },
+    {
+      "name": "First Spark Ventures",
+      "profile_url": "https://startups.gallery/investors/first-spark-ventures"
+    },
+    {
+      "name": "FirstMark",
+      "profile_url": "https://startups.gallery/investors/firstmark"
+    },
+    {
+      "name": "Firstminute Capital",
+      "profile_url": "https://startups.gallery/investors/firstminute-capital"
+    },
+    {
+      "name": "Five V Capital",
+      "profile_url": "https://startups.gallery/investors/five-v-capital"
+    },
+    {
+      "name": "FJ Labs",
+      "profile_url": "https://startups.gallery/investors/fj-labs"
+    },
+    {
+      "name": "Flex Capital",
+      "profile_url": "https://startups.gallery/investors/flex-capital"
+    },
+    {
+      "name": "Floodgate",
+      "profile_url": "https://startups.gallery/investors/floodgate"
+    },
+    {
+      "name": "Flourish Ventures",
+      "profile_url": "https://startups.gallery/investors/flourish-ventures"
+    },
+    {
+      "name": "Flume Ventures",
+      "profile_url": "https://startups.gallery/investors/flume-ventures"
+    },
+    {
+      "name": "Flybridge",
+      "profile_url": "https://startups.gallery/investors/flybridge"
+    },
+    {
+      "name": "Footwork VC",
+      "profile_url": "https://startups.gallery/investors/footwork-vc"
+    },
+    {
+      "name": "Forerunner Ventures",
+      "profile_url": "https://startups.gallery/investors/forerunner-ventures"
+    },
+    {
+      "name": "Foundation Capital",
+      "profile_url": "https://startups.gallery/investors/foundation-capital"
+    },
+    {
+      "name": "Founders",
+      "profile_url": "https://startups.gallery/investors/founders"
+    },
+    {
+      "name": "Founders Fund",
+      "profile_url": "https://startups.gallery/investors/founders-fund"
+    },
+    {
+      "name": "Founders Inc.",
+      "profile_url": "https://startups.gallery/investors/founders-inc"
+    },
+    {
+      "name": "Foundry",
+      "profile_url": "https://startups.gallery/investors/foundry"
+    },
+    {
+      "name": "Framework Ventures",
+      "profile_url": "https://startups.gallery/investors/framework-ventures"
+    },
+    {
+      "name": "Friends & Family Capital",
+      "profile_url": "https://startups.gallery/investors/friends-family-capital"
+    },
+    {
+      "name": "Frontline Ventures",
+      "profile_url": "https://startups.gallery/investors/frontline-ventures"
+    },
+    {
+      "name": "FT Partners",
+      "profile_url": "https://startups.gallery/investors/ft-partners"
+    },
+    {
+      "name": "FundersClub",
+      "profile_url": "https://startups.gallery/investors/fundersclub"
+    },
+    {
+      "name": "Future Back Ventures",
+      "profile_url": "https://startups.gallery/investors/future-back-ventures"
+    },
+    {
+      "name": "Future Positive",
+      "profile_url": "https://startups.gallery/investors/future-positive"
+    },
+    {
+      "name": "Future Ventures",
+      "profile_url": "https://startups.gallery/investors/future-ventures"
+    },
+    {
+      "name": "G Squared",
+      "profile_url": "https://startups.gallery/investors/g-squared"
+    },
+    {
+      "name": "Galaxy Ventures",
+      "profile_url": "https://startups.gallery/investors/galaxy-ventures"
+    },
+    {
+      "name": "Galvanize Climate Solutions",
+      "profile_url": "https://startups.gallery/investors/galvanize-climate-solutions"
+    },
+    {
+      "name": "Garage",
+      "profile_url": "https://startups.gallery/investors/garage"
+    },
+    {
+      "name": "Garuda Ventures",
+      "profile_url": "https://startups.gallery/investors/garuda-ventures"
+    },
+    {
+      "name": "General Atlantic",
+      "profile_url": "https://startups.gallery/investors/general-atlantic"
+    },
+    {
+      "name": "General Catalyst",
+      "profile_url": "https://startups.gallery/investors/general-catalyst"
+    },
+    {
+      "name": "Geodesic Capital",
+      "profile_url": "https://startups.gallery/investors/geodesic-capital"
+    },
+    {
+      "name": "Georgian",
+      "profile_url": "https://startups.gallery/investors/georgian"
+    },
+    {
+      "name": "GFT Ventures",
+      "profile_url": "https://startups.gallery/investors/gft-ventures"
+    },
+    {
+      "name": "Giant VC",
+      "profile_url": "https://startups.gallery/investors/giant-vc"
+    },
+    {
+      "name": "Glade Brook Capital",
+      "profile_url": "https://startups.gallery/investors/glade-brook-capital"
+    },
+    {
+      "name": "Glilot Capital Partners",
+      "profile_url": "https://startups.gallery/investors/glilot-capital-partners"
+    },
+    {
+      "name": "Goldman Sachs",
+      "profile_url": "https://startups.gallery/investors/goldman-sachs-alternatives"
+    },
+    {
+      "name": "Goodwater Capital",
+      "profile_url": "https://startups.gallery/investors/goodwater-capital"
+    },
+    {
+      "name": "Gradient Ventures",
+      "profile_url": "https://startups.gallery/investors/gradient-ventures"
+    },
+    {
+      "name": "Grand Ventures",
+      "profile_url": "https://startups.gallery/investors/grand-ventures"
+    },
+    {
+      "name": "GreatPoint Ventures",
+      "profile_url": "https://startups.gallery/investors/greatpoint-ventures"
+    },
+    {
+      "name": "Greenfield Partners",
+      "profile_url": "https://startups.gallery/investors/greenfield-partners"
+    },
+    {
+      "name": "Greenoaks",
+      "profile_url": "https://startups.gallery/investors/greenoaks"
+    },
+    {
+      "name": "Greycroft",
+      "profile_url": "https://startups.gallery/investors/greycroft"
+    },
+    {
+      "name": "Greylock",
+      "profile_url": "https://startups.gallery/investors/greylock"
+    },
+    {
+      "name": "Grid Capital",
+      "profile_url": "https://startups.gallery/investors/grid-capital"
+    },
+    {
+      "name": "GS Futures",
+      "profile_url": "https://startups.gallery/investors/gs-futures"
+    },
+    {
+      "name": "GSV Ventures",
+      "profile_url": "https://startups.gallery/investors/gsv-ventures"
+    },
+    {
+      "name": "GV",
+      "profile_url": "https://startups.gallery/investors/google-ventures"
+    },
+    {
+      "name": "Hack VC",
+      "profile_url": "https://startups.gallery/investors/hack-vc"
+    },
+    {
+      "name": "Halo Fund",
+      "profile_url": "https://startups.gallery/investors/halo-fund"
+    },
+    {
+      "name": "Hanabi Capital",
+      "profile_url": "https://startups.gallery/investors/hanabi-capital"
+    },
+    {
+      "name": "Harlem Capital",
+      "profile_url": "https://startups.gallery/investors/harlem-capital"
+    },
+    {
+      "name": "Harpoon Ventures",
+      "profile_url": "https://startups.gallery/investors/harpoon-ventures"
+    },
+    {
+      "name": "Haun Ventures",
+      "profile_url": "https://startups.gallery/investors/haun-ventures"
+    },
+    {
+      "name": "Hawke Ventures",
+      "profile_url": "https://startups.gallery/investors/hawke-ventures"
+    },
+    {
+      "name": "Haystack Ventures",
+      "profile_url": "https://startups.gallery/investors/haystack-ventures"
+    },
+    {
+      "name": "Headline",
+      "profile_url": "https://startups.gallery/investors/headline"
+    },
+    {
+      "name": "Heartcore Capital",
+      "profile_url": "https://startups.gallery/investors/heartcore-capital"
+    },
+    {
+      "name": "Heavybit",
+      "profile_url": "https://startups.gallery/investors/heavybit"
+    },
+    {
+      "name": "Hedosophia",
+      "profile_url": "https://startups.gallery/investors/hedosophia"
+    },
+    {
+      "name": "HF0",
+      "profile_url": "https://startups.gallery/investors/hf0"
+    },
+    {
+      "name": "High Alpha",
+      "profile_url": "https://startups.gallery/investors/high-alpha"
+    },
+    {
+      "name": "Highland Capital Partners",
+      "profile_url": "https://startups.gallery/investors/highland-capital-partners"
+    },
+    {
+      "name": "Highland Europe",
+      "profile_url": "https://startups.gallery/investors/highland-europe"
+    },
+    {
+      "name": "HOF Capital",
+      "profile_url": "https://startups.gallery/investors/hof-capital"
+    },
+    {
+      "name": "Homebrew",
+      "profile_url": "https://startups.gallery/investors/homebrew"
+    },
+    {
+      "name": "Horizons Ventures",
+      "profile_url": "https://startups.gallery/investors/horizons-ventures"
+    },
+    {
+      "name": "HubSpot Ventures",
+      "profile_url": "https://startups.gallery/investors/hubspot-ventures"
+    },
+    {
+      "name": "Human Capital",
+      "profile_url": "https://startups.gallery/investors/human-capital"
+    },
+    {
+      "name": "Human Ventures",
+      "profile_url": "https://startups.gallery/investors/human-ventures"
+    },
+    {
+      "name": "Humba Ventures",
+      "profile_url": "https://startups.gallery/investors/humba-ventures"
+    },
+    {
+      "name": "Hummingbird VC",
+      "profile_url": "https://startups.gallery/investors/hummingbird-vc"
+    },
+    {
+      "name": "Hustle Fund",
+      "profile_url": "https://startups.gallery/investors/hustle-fund"
+    },
+    {
+      "name": "HV Capital",
+      "profile_url": "https://startups.gallery/investors/hv-capital"
+    },
+    {
+      "name": "Hyperion",
+      "profile_url": "https://startups.gallery/investors/hyperion"
+    },
+    {
+      "name": "Hyphen Partners",
+      "profile_url": "https://startups.gallery/investors/hyphen-partners"
+    },
+    {
+      "name": "IA Ventures",
+      "profile_url": "https://startups.gallery/investors/ia-ventures"
+    },
+    {
+      "name": "IAG Capital Partners",
+      "profile_url": "https://startups.gallery/investors/iag-capital-partners"
+    },
+    {
+      "name": "Icon Ventures",
+      "profile_url": "https://startups.gallery/investors/icon-ventures"
+    },
+    {
+      "name": "ICONIQ",
+      "profile_url": "https://startups.gallery/investors/iconiq-growth"
+    },
+    {
+      "name": "IDC Ventures",
+      "profile_url": "https://startups.gallery/investors/idc-ventures"
+    },
+    {
+      "name": "Incore",
+      "profile_url": "https://startups.gallery/investors/incore"
+    },
+    {
+      "name": "Index Ventures",
+      "profile_url": "https://startups.gallery/investors/index-ventures"
+    },
+    {
+      "name": "Indico Capital Partners",
+      "profile_url": "https://startups.gallery/investors/indico-capital-partners"
+    },
+    {
+      "name": "Industry Ventures",
+      "profile_url": "https://startups.gallery/investors/industry-ventures"
+    },
+    {
+      "name": "Infinity Ventures",
+      "profile_url": "https://startups.gallery/investors/infinity-ventures"
+    },
+    {
+      "name": "Initialized Capital",
+      "profile_url": "https://startups.gallery/investors/initialized-capital"
+    },
+    {
+      "name": "Innovation Endeavors",
+      "profile_url": "https://startups.gallery/investors/innovation-endeavors"
+    },
+    {
+      "name": "Inovia Capital",
+      "profile_url": "https://startups.gallery/investors/inovia-capital"
+    },
+    {
+      "name": "Inovo VC",
+      "profile_url": "https://startups.gallery/investors/inovo-vc"
+    },
+    {
+      "name": "Insight Partners",
+      "profile_url": "https://startups.gallery/investors/insight-partners"
+    },
+    {
+      "name": "Inspired Capital",
+      "profile_url": "https://startups.gallery/investors/inspired-capital"
+    },
+    {
+      "name": "Intel Capital",
+      "profile_url": "https://startups.gallery/investors/intel-capital"
+    },
+    {
+      "name": "Interlagos",
+      "profile_url": "https://startups.gallery/investors/interlagos"
+    },
+    {
+      "name": "IQT",
+      "profile_url": "https://startups.gallery/investors/iqt"
+    },
+    {
+      "name": "Irregular Expressions",
+      "profile_url": "https://startups.gallery/investors/irregular-expressions"
+    },
+    {
+      "name": "IVP",
+      "profile_url": "https://startups.gallery/investors/ivp"
+    },
+    {
+      "name": "J.P. Morgan",
+      "profile_url": "https://startups.gallery/investors/j-p-morgan"
+    },
+    {
+      "name": "Jane Street",
+      "profile_url": "https://startups.gallery/investors/jane-street"
+    },
+    {
+      "name": "Javelin Venture Partners",
+      "profile_url": "https://startups.gallery/investors/javelin-venture-partners"
+    },
+    {
+      "name": "Kalos Ventures",
+      "profile_url": "https://startups.gallery/investors/kalos-ventures"
+    },
+    {
+      "name": "Karman Ventures",
+      "profile_url": "https://startups.gallery/investors/karman-ventures"
+    },
+    {
+      "name": "Khosla Ventures",
+      "profile_url": "https://startups.gallery/investors/khosla-ventures"
+    },
+    {
+      "name": "Kickstart Fund",
+      "profile_url": "https://startups.gallery/investors/kickstart-fund"
+    },
+    {
+      "name": "Kin Ventures",
+      "profile_url": "https://startups.gallery/investors/kin-ventures"
+    },
+    {
+      "name": "Kindred Ventures",
+      "profile_url": "https://startups.gallery/investors/kindred-ventures"
+    },
+    {
+      "name": "Kleiner Perkins",
+      "profile_url": "https://startups.gallery/investors/kleiner-perkins"
+    },
+    {
+      "name": "Koch Investments",
+      "profile_url": "https://startups.gallery/investors/koch-investments"
+    },
+    {
+      "name": "Korelya Capital",
+      "profile_url": "https://startups.gallery/investors/korelya-capital"
+    },
+    {
+      "name": "KT",
+      "profile_url": "https://startups.gallery/investors/kt"
+    },
+    {
+      "name": "L Catterton",
+      "profile_url": "https://startups.gallery/investors/l-catterton"
+    },
+    {
+      "name": "La Famiglia",
+      "profile_url": "https://startups.gallery/investors/la-famiglia"
+    },
+    {
+      "name": "Lachy Groom",
+      "profile_url": "https://startups.gallery/investors/lachy-groom"
+    },
+    {
+      "name": "Lakestar",
+      "profile_url": "https://startups.gallery/investors/lakestar"
+    },
+    {
+      "name": "Latimer Ventures",
+      "profile_url": "https://startups.gallery/investors/latimer-ventures"
+    },
+    {
+      "name": "Latitude Capital",
+      "profile_url": "https://startups.gallery/investors/latitude-capital"
+    },
+    {
+      "name": "Laton VC",
+      "profile_url": "https://startups.gallery/investors/laton-vc"
+    },
+    {
+      "name": "Laude Ventures",
+      "profile_url": "https://startups.gallery/investors/laude-ventures"
+    },
+    {
+      "name": "Lauxera Capital Partners",
+      "profile_url": "https://startups.gallery/investors/lauxera-capital-partners"
+    },
+    {
+      "name": "Lead Edge Capital",
+      "profile_url": "https://startups.gallery/investors/lead-edge-capital"
+    },
+    {
+      "name": "Leaders Fund",
+      "profile_url": "https://startups.gallery/investors/leaders-fund"
+    },
+    {
+      "name": "Left Lane Capital",
+      "profile_url": "https://startups.gallery/investors/left-lane-capital"
+    },
+    {
+      "name": "Leitmotif",
+      "profile_url": "https://startups.gallery/investors/leitmotif"
+    },
+    {
+      "name": "Lerer Hippeau",
+      "profile_url": "https://startups.gallery/investors/lerer-hippeau"
+    },
+    {
+      "name": "LifeX Ventures",
+      "profile_url": "https://startups.gallery/investors/lifex-ventures"
+    },
+    {
+      "name": "Lightspeed",
+      "profile_url": "https://startups.gallery/investors/lightspeed-venture-partners"
+    },
+    {
+      "name": "Lingotto",
+      "profile_url": "https://startups.gallery/investors/lingotto"
+    },
+    {
+      "name": "Liquid 2 Ventures",
+      "profile_url": "https://startups.gallery/investors/liquid-2-ventures"
+    },
+    {
+      "name": "LiveOak Ventures",
+      "profile_url": "https://startups.gallery/investors/liveoak-ventures"
+    },
+    {
+      "name": "Lobby Capital",
+      "profile_url": "https://startups.gallery/investors/lobby-capital"
+    },
+    {
+      "name": "LocalGlobe",
+      "profile_url": "https://startups.gallery/investors/localglobe"
+    },
+    {
+      "name": "Lockstep",
+      "profile_url": "https://startups.gallery/investors/lockstep"
+    },
+    {
+      "name": "Lone Pine Capital",
+      "profile_url": "https://startups.gallery/investors/lone-pine-capital"
+    },
+    {
+      "name": "Long Journey Ventures",
+      "profile_url": "https://startups.gallery/investors/long-journey-ventures"
+    },
+    {
+      "name": "Look Up Ventures",
+      "profile_url": "https://startups.gallery/investors/look-up-ventures"
+    },
+    {
+      "name": "Lorimer Ventures",
+      "profile_url": "https://startups.gallery/investors/lorimer-ventures"
+    },
+    {
+      "name": "Lowercarbon Capital",
+      "profile_url": "https://startups.gallery/investors/lowercarbon-capital"
+    },
+    {
+      "name": "Ludlow Ventures",
+      "profile_url": "https://startups.gallery/investors/ludlow-ventures"
+    },
+    {
+      "name": "Lunar Ventures",
+      "profile_url": "https://startups.gallery/investors/lunar-ventures"
+    },
+    {
+      "name": "Lux Capital",
+      "profile_url": "https://startups.gallery/investors/lux-capital"
+    },
+    {
+      "name": "M12",
+      "profile_url": "https://startups.gallery/investors/m12"
+    },
+    {
+      "name": "M13",
+      "profile_url": "https://startups.gallery/investors/m13"
+    },
+    {
+      "name": "MaC Venture Capital",
+      "profile_url": "https://startups.gallery/investors/mac-venture-capital"
+    },
+    {
+      "name": "Madrona",
+      "profile_url": "https://startups.gallery/investors/madrona"
+    },
+    {
+      "name": "Magnetar",
+      "profile_url": "https://startups.gallery/investors/magnetar"
+    },
+    {
+      "name": "Mango Capital",
+      "profile_url": "https://startups.gallery/investors/mango-capital"
+    },
+    {
+      "name": "Mantis VC",
+      "profile_url": "https://startups.gallery/investors/mantis-vc"
+    },
+    {
+      "name": "Maple VC",
+      "profile_url": "https://startups.gallery/investors/maple-vc"
+    },
+    {
+      "name": "March Capital",
+      "profile_url": "https://startups.gallery/investors/march-capital"
+    },
+    {
+      "name": "Matchstick Ventures",
+      "profile_url": "https://startups.gallery/investors/matchstick-ventures"
+    },
+    {
+      "name": "Matrix Partners",
+      "profile_url": "https://startups.gallery/investors/matrix-partners"
+    },
+    {
+      "name": "Maven Ventures",
+      "profile_url": "https://startups.gallery/investors/maven-ventures"
+    },
+    {
+      "name": "Maverick Capital",
+      "profile_url": "https://startups.gallery/investors/maverick-capital"
+    },
+    {
+      "name": "Maverick Ventures",
+      "profile_url": "https://startups.gallery/investors/maverick-ventures"
+    },
+    {
+      "name": "Maveron",
+      "profile_url": "https://startups.gallery/investors/maveron"
+    },
+    {
+      "name": "Mayfield Fund",
+      "profile_url": "https://startups.gallery/investors/mayfield-fund"
+    },
+    {
+      "name": "Menlo Ventures",
+      "profile_url": "https://startups.gallery/investors/menlo-ventures"
+    },
+    {
+      "name": "Meritech Capital",
+      "profile_url": "https://startups.gallery/investors/meritech-capital"
+    },
+    {
+      "name": "Merlin Ventures",
+      "profile_url": "https://startups.gallery/investors/merlin-ventures"
+    },
+    {
+      "name": "MHS Capital",
+      "profile_url": "https://startups.gallery/investors/mhs-capital"
+    },
+    {
+      "name": "Microsoft",
+      "profile_url": "https://startups.gallery/investors/microsoft"
+    },
+    {
+      "name": "Moderne Ventures",
+      "profile_url": "https://startups.gallery/investors/moderne-ventures"
+    },
+    {
+      "name": "Molten Ventures",
+      "profile_url": "https://startups.gallery/investors/molten-ventures"
+    },
+    {
+      "name": "Monogram Capital Partners",
+      "profile_url": "https://startups.gallery/investors/monogram-capital-partners"
+    },
+    {
+      "name": "Moonfire Ventures",
+      "profile_url": "https://startups.gallery/investors/moonfire-ventures"
+    },
+    {
+      "name": "Morgan Stanley",
+      "profile_url": "https://startups.gallery/investors/morgan-stanley"
+    },
+    {
+      "name": "Morpheus Ventures",
+      "profile_url": "https://startups.gallery/investors/morpheus-ventures"
+    },
+    {
+      "name": "Mosaic Ventures",
+      "profile_url": "https://startups.gallery/investors/mosaic-ventures"
+    },
+    {
+      "name": "Moth Fund",
+      "profile_url": "https://startups.gallery/investors/moth-fund"
+    },
+    {
+      "name": "Motivate Venture Capital",
+      "profile_url": "https://startups.gallery/investors/motivate-venture-capital"
+    },
+    {
+      "name": "Motive Ventures",
+      "profile_url": "https://startups.gallery/investors/motive-ventures"
+    },
+    {
+      "name": "Motley Fool Ventures",
+      "profile_url": "https://startups.gallery/investors/motley-fool-ventures"
+    },
+    {
+      "name": "Mouro Capital",
+      "profile_url": "https://startups.gallery/investors/mouro-capital"
+    },
+    {
+      "name": "Move Capital",
+      "profile_url": "https://startups.gallery/investors/move-capital"
+    },
+    {
+      "name": "Moxxie Ventures",
+      "profile_url": "https://startups.gallery/investors/moxxie-ventures"
+    },
+    {
+      "name": "Mucker Capital",
+      "profile_url": "https://startups.gallery/investors/mucker-capital"
+    },
+    {
+      "name": "Multicoin Capital",
+      "profile_url": "https://startups.gallery/investors/multicoin-capital"
+    },
+    {
+      "name": "MVP Ventures",
+      "profile_url": "https://startups.gallery/investors/mvp-ventures"
+    },
+    {
+      "name": "Mythos Ventures",
+      "profile_url": "https://startups.gallery/investors/mythos-ventures"
+    },
+    {
+      "name": "N47",
+      "profile_url": "https://startups.gallery/investors/n47"
+    },
+    {
+      "name": "NAP VC",
+      "profile_url": "https://startups.gallery/investors/nap-vc"
+    },
+    {
+      "name": "Natural Capital",
+      "profile_url": "https://startups.gallery/investors/natural-capital"
+    },
+    {
+      "name": "Navitas Capital",
+      "profile_url": "https://startups.gallery/investors/navitas-capital"
+    },
+    {
+      "name": "NEA",
+      "profile_url": "https://startups.gallery/investors/new-enterprise-associates"
+    },
+    {
+      "name": "Necessary Ventures",
+      "profile_url": "https://startups.gallery/investors/necessary-ventures"
+    },
+    {
+      "name": "Neo",
+      "profile_url": "https://startups.gallery/investors/neo"
+    },
+    {
+      "name": "Neotribe Ventures",
+      "profile_url": "https://startups.gallery/investors/neotribe-ventures"
+    },
+    {
+      "name": "Netflix",
+      "profile_url": "https://startups.gallery/investors/netflix"
+    },
+    {
+      "name": "New Wave VC",
+      "profile_url": "https://startups.gallery/investors/new-wave-vc"
+    },
+    {
+      "name": "Newion",
+      "profile_url": "https://startups.gallery/investors/newion"
+    },
+    {
+      "name": "Next Play Ventures",
+      "profile_url": "https://startups.gallery/investors/next-play-ventures"
+    },
+    {
+      "name": "Next Ventures",
+      "profile_url": "https://startups.gallery/investors/next-ventures"
+    },
+    {
+      "name": "Next47",
+      "profile_url": "https://startups.gallery/investors/next47"
+    },
+    {
+      "name": "NextView Ventures",
+      "profile_url": "https://startups.gallery/investors/nextview-ventures"
+    },
+    {
+      "name": "Nexus Venture Partners",
+      "profile_url": "https://startups.gallery/investors/nexus-venture-partners"
+    },
+    {
+      "name": "NFDG Ventures",
+      "profile_url": "https://startups.gallery/investors/nfdg-ventures"
+    },
+    {
+      "name": "NFX",
+      "profile_url": "https://startups.gallery/investors/nfx"
+    },
+    {
+      "name": "NordicNinja",
+      "profile_url": "https://startups.gallery/investors/nordicninja"
+    },
+    {
+      "name": "Northzone",
+      "profile_url": "https://startups.gallery/investors/northzone"
+    },
+    {
+      "name": "Norwest Venture Partners",
+      "profile_url": "https://startups.gallery/investors/norwest-venture-partners"
+    },
+    {
+      "name": "Notable Capital",
+      "profile_url": "https://startups.gallery/investors/notable-capital"
+    },
+    {
+      "name": "Notion Capital",
+      "profile_url": "https://startups.gallery/investors/notion-capital"
+    },
+    {
+      "name": "NVentures (Nvidia)",
+      "profile_url": "https://startups.gallery/investors/nventures"
+    },
+    {
+      "name": "O'Shaughnessy Ventures",
+      "profile_url": "https://startups.gallery/investors/o-shaughnessy-ventures"
+    },
+    {
+      "name": "Oak HC/FT",
+      "profile_url": "https://startups.gallery/investors/oak-hc-ft"
+    },
+    {
+      "name": "Obvious Ventures",
+      "profile_url": "https://startups.gallery/investors/obvious-ventures"
+    },
+    {
+      "name": "Octave",
+      "profile_url": "https://startups.gallery/investors/octave"
+    },
+    {
+      "name": "Octopus Ventures",
+      "profile_url": "https://startups.gallery/investors/octopus-ventures"
+    },
+    {
+      "name": "Offline Ventures",
+      "profile_url": "https://startups.gallery/investors/offline-ventures"
+    },
+    {
+      "name": "Okta Ventures",
+      "profile_url": "https://startups.gallery/investors/okta-ventures"
+    },
+    {
+      "name": "Oliver Jung",
+      "profile_url": "https://startups.gallery/investors/oliver-jung"
+    },
+    {
+      "name": "ONEVC",
+      "profile_url": "https://startups.gallery/investors/onevc"
+    },
+    {
+      "name": "OpenAI Startup Fund",
+      "profile_url": "https://startups.gallery/investors/openai-startup-fund"
+    },
+    {
+      "name": "OpenView",
+      "profile_url": "https://startups.gallery/investors/openview"
+    },
+    {
+      "name": "Operator Collective",
+      "profile_url": "https://startups.gallery/investors/operator-collective"
+    },
+    {
+      "name": "Operator Partners",
+      "profile_url": "https://startups.gallery/investors/operator-partners"
+    },
+    {
+      "name": "Oregon Venture Fund",
+      "profile_url": "https://startups.gallery/investors/oregon-venture-fund"
+    },
+    {
+      "name": "Origin Ventures",
+      "profile_url": "https://startups.gallery/investors/origin-ventures"
+    },
+    {
+      "name": "Original Capital",
+      "profile_url": "https://startups.gallery/investors/original-capital"
+    },
+    {
+      "name": "OSS Capital",
+      "profile_url": "https://startups.gallery/investors/oss-capital"
+    },
+    {
+      "name": "OTB Ventures",
+      "profile_url": "https://startups.gallery/investors/otb-ventures"
+    },
+    {
+      "name": "Outlander VC",
+      "profile_url": "https://startups.gallery/investors/outlander-vc"
+    },
+    {
+      "name": "Outset Capital",
+      "profile_url": "https://startups.gallery/investors/outset-capital"
+    },
+    {
+      "name": "Outsiders Fund",
+      "profile_url": "https://startups.gallery/investors/outsiders-fund"
+    },
+    {
+      "name": "Pace Capital",
+      "profile_url": "https://startups.gallery/investors/pace-capital"
+    },
+    {
+      "name": "Pale blue dot",
+      "profile_url": "https://startups.gallery/investors/pale-blue-dot"
+    },
+    {
+      "name": "Panache Ventures",
+      "profile_url": "https://startups.gallery/investors/panache-ventures"
+    },
+    {
+      "name": "Pantera Capital",
+      "profile_url": "https://startups.gallery/investors/pantera-capital"
+    },
+    {
+      "name": "Paradigm",
+      "profile_url": "https://startups.gallery/investors/paradigm"
+    },
+    {
+      "name": "Parkway VC",
+      "profile_url": "https://startups.gallery/investors/parkway-vc"
+    },
+    {
+      "name": "Partech",
+      "profile_url": "https://startups.gallery/investors/partech"
+    },
+    {
+      "name": "Passion Capital",
+      "profile_url": "https://startups.gallery/investors/passion-capital"
+    },
+    {
+      "name": "Pathlight Ventures",
+      "profile_url": "https://startups.gallery/investors/pathlight-ventures"
+    },
+    {
+      "name": "Patron",
+      "profile_url": "https://startups.gallery/investors/patron"
+    },
+    {
+      "name": "PAX",
+      "profile_url": "https://startups.gallery/investors/pax"
+    },
+    {
+      "name": "Peak 6",
+      "profile_url": "https://startups.gallery/investors/peak-6"
+    },
+    {
+      "name": "Peak XV",
+      "profile_url": "https://startups.gallery/investors/peak-xv"
+    },
+    {
+      "name": "PeakSpan Capital",
+      "profile_url": "https://startups.gallery/investors/peakspan-capital"
+    },
+    {
+      "name": "Pear VC",
+      "profile_url": "https://startups.gallery/investors/pear-vc"
+    },
+    {
+      "name": "pebblebed",
+      "profile_url": "https://startups.gallery/investors/pebblebed"
+    },
+    {
+      "name": "Pelion Venture Partners",
+      "profile_url": "https://startups.gallery/investors/pelion-venture-partners"
+    },
+    {
+      "name": "Pharsalus",
+      "profile_url": "https://startups.gallery/investors/pharsalus"
+    },
+    {
+      "name": "PHX Ventures",
+      "profile_url": "https://startups.gallery/investors/phx-ventures"
+    },
+    {
+      "name": "Picus Capital",
+      "profile_url": "https://startups.gallery/investors/picus-capital"
+    },
+    {
+      "name": "Pillar VC",
+      "profile_url": "https://startups.gallery/investors/pillar-vc"
+    },
+    {
+      "name": "Pioneer Fund",
+      "profile_url": "https://startups.gallery/investors/pioneer-fund"
+    },
+    {
+      "name": "Plural",
+      "profile_url": "https://startups.gallery/investors/plural"
+    },
+    {
+      "name": "Point Nine",
+      "profile_url": "https://startups.gallery/investors/point-nine"
+    },
+    {
+      "name": "Point72 Ventures",
+      "profile_url": "https://startups.gallery/investors/point72-ventures"
+    },
+    {
+      "name": "Polychain Capital",
+      "profile_url": "https://startups.gallery/investors/polychain-capital"
+    },
+    {
+      "name": "Portage",
+      "profile_url": "https://startups.gallery/investors/portage"
+    },
+    {
+      "name": "Powerhouse Ventures",
+      "profile_url": "https://startups.gallery/investors/powerhouse-ventures"
+    },
+    {
+      "name": "Precursor Ventures",
+      "profile_url": "https://startups.gallery/investors/precursor-ventures"
+    },
+    {
+      "name": "Prelude Ventures",
+      "profile_url": "https://startups.gallery/investors/prelude-ventures"
+    },
+    {
+      "name": "Premji Invest",
+      "profile_url": "https://startups.gallery/investors/premji-invest"
+    },
+    {
+      "name": "Preston-Werner Ventures",
+      "profile_url": "https://startups.gallery/investors/preston-werner-ventures"
+    },
+    {
+      "name": "Primary",
+      "profile_url": "https://startups.gallery/investors/primary"
+    },
+    {
+      "name": "Prime Movers Lab",
+      "profile_url": "https://startups.gallery/investors/prime-movers-lab"
+    },
+    {
+      "name": "Project A",
+      "profile_url": "https://startups.gallery/investors/project-a"
+    },
+    {
+      "name": "Prometheus Fund",
+      "profile_url": "https://startups.gallery/investors/prometheus-fund"
+    },
+    {
+      "name": "Prosus Ventures",
+      "profile_url": "https://startups.gallery/investors/prosus-ventures"
+    },
+    {
+      "name": "Protagonist",
+      "profile_url": "https://startups.gallery/investors/protagonist"
+    },
+    {
+      "name": "Pruven Capital",
+      "profile_url": "https://startups.gallery/investors/pruven-capital"
+    },
+    {
+      "name": "Prysm Capital",
+      "profile_url": "https://startups.gallery/investors/prysm-capital"
+    },
+    {
+      "name": "PSL Ventures",
+      "profile_url": "https://startups.gallery/investors/psl-ventures"
+    },
+    {
+      "name": "PSV",
+      "profile_url": "https://startups.gallery/investors/psv"
+    },
+    {
+      "name": "QED",
+      "profile_url": "https://startups.gallery/investors/qed"
+    },
+    {
+      "name": "QIA",
+      "profile_url": "https://startups.gallery/investors/qia"
+    },
+    {
+      "name": "Quadrille Capital",
+      "profile_url": "https://startups.gallery/investors/quadrille-capital"
+    },
+    {
+      "name": "Quiet Capital",
+      "profile_url": "https://startups.gallery/investors/quiet-capital"
+    },
+    {
+      "name": "Race Capital",
+      "profile_url": "https://startups.gallery/investors/race-capital"
+    },
+    {
+      "name": "Radical Ventures",
+      "profile_url": "https://startups.gallery/investors/radical-ventures"
+    },
+    {
+      "name": "Raine",
+      "profile_url": "https://startups.gallery/investors/raine"
+    },
+    {
+      "name": "Reach Capital",
+      "profile_url": "https://startups.gallery/investors/reach-capital"
+    },
+    {
+      "name": "Rebel Fund",
+      "profile_url": "https://startups.gallery/investors/rebel-fund"
+    },
+    {
+      "name": "Rebellion Ventures",
+      "profile_url": "https://startups.gallery/investors/rebellion-ventures"
+    },
+    {
+      "name": "redalpine",
+      "profile_url": "https://startups.gallery/investors/redalpine"
+    },
+    {
+      "name": "Redpoint Ventures",
+      "profile_url": "https://startups.gallery/investors/redpoint-ventures"
+    },
+    {
+      "name": "Renegade Partners",
+      "profile_url": "https://startups.gallery/investors/renegade-partners"
+    },
+    {
+      "name": "Ribbit Capital",
+      "profile_url": "https://startups.gallery/investors/ribbit-capital"
+    },
+    {
+      "name": "Ridge Ventures",
+      "profile_url": "https://startups.gallery/investors/ridge-ventures"
+    },
+    {
+      "name": "Riot Ventures",
+      "profile_url": "https://startups.gallery/investors/riot-ventures"
+    },
+    {
+      "name": "Ritual Capital",
+      "profile_url": "https://startups.gallery/investors/ritual-capital"
+    },
+    {
+      "name": "RoboStrategy",
+      "profile_url": "https://startups.gallery/investors/robostrategy"
+    },
+    {
+      "name": "Robot Ventures",
+      "profile_url": "https://startups.gallery/investors/robot-ventures"
+    },
+    {
+      "name": "Rocana Venture Partners",
+      "profile_url": "https://startups.gallery/investors/rocana-venture-partners"
+    },
+    {
+      "name": "Rogue Capital",
+      "profile_url": "https://startups.gallery/investors/rogue-capital"
+    },
+    {
+      "name": "Root Ventures",
+      "profile_url": "https://startups.gallery/investors/root-ventures"
+    },
+    {
+      "name": "RSquared VC",
+      "profile_url": "https://startups.gallery/investors/rsquared-vc"
+    },
+    {
+      "name": "RTP Global",
+      "profile_url": "https://startups.gallery/investors/rtp-global"
+    },
+    {
+      "name": "RTX",
+      "profile_url": "https://startups.gallery/investors/rtx"
+    },
+    {
+      "name": "Rubio Impact Ventures",
+      "profile_url": "https://startups.gallery/investors/rubio-impact-ventures"
+    },
+    {
+      "name": "S32",
+      "profile_url": "https://startups.gallery/investors/section-32"
+    },
+    {
+      "name": "Saga Ventures",
+      "profile_url": "https://startups.gallery/investors/saga-ventures"
+    },
+    {
+      "name": "Salesforce Ventures",
+      "profile_url": "https://startups.gallery/investors/salesforce-ventures"
+    },
+    {
+      "name": "Salt VC",
+      "profile_url": "https://startups.gallery/investors/salt-vc"
+    },
+    {
+      "name": "Sam Altman",
+      "profile_url": "https://startups.gallery/investors/sam-altman"
+    },
+    {
+      "name": "Samsung Catalyst",
+      "profile_url": "https://startups.gallery/investors/samsung-catalyst"
+    },
+    {
+      "name": "Sandberg Bernthal Venture Partners",
+      "profile_url": "https://startups.gallery/investors/sandberg-bernthal-venture-partners"
+    },
+    {
+      "name": "Sapphire Ventures",
+      "profile_url": "https://startups.gallery/investors/sapphire-ventures"
+    },
+    {
+      "name": "Scale Venture Partners",
+      "profile_url": "https://startups.gallery/investors/scale-venture-partners"
+    },
+    {
+      "name": "SciFi VC",
+      "profile_url": "https://startups.gallery/investors/scifi-vc"
+    },
+    {
+      "name": "ScOp Venture Capital",
+      "profile_url": "https://startups.gallery/investors/scop-venture-capital"
+    },
+    {
+      "name": "Scribble Ventures",
+      "profile_url": "https://startups.gallery/investors/scribble-ventures"
+    },
+    {
+      "name": "Script Capital",
+      "profile_url": "https://startups.gallery/investors/script-capital"
+    },
+    {
+      "name": "Seedcamp",
+      "profile_url": "https://startups.gallery/investors/seedcamp"
+    },
+    {
+      "name": "SemperVirens",
+      "profile_url": "https://startups.gallery/investors/sempervirens"
+    },
+    {
+      "name": "Sentinel Global",
+      "profile_url": "https://startups.gallery/investors/sentinel-global"
+    },
+    {
+      "name": "Sequoia",
+      "profile_url": "https://startups.gallery/investors/sequoia-capital"
+    },
+    {
+      "name": "Series X Capital",
+      "profile_url": "https://startups.gallery/investors/series-x-capital"
+    },
+    {
+      "name": "Seven Seven Six",
+      "profile_url": "https://startups.gallery/investors/seven-seven-six"
+    },
+    {
+      "name": "SHAKTI",
+      "profile_url": "https://startups.gallery/investors/shakti"
+    },
+    {
+      "name": "Shield Capital",
+      "profile_url": "https://startups.gallery/investors/shield-capital"
+    },
+    {
+      "name": "Shine Capital",
+      "profile_url": "https://startups.gallery/investors/shine-capital"
+    },
+    {
+      "name": "Shinhan Venture Investment",
+      "profile_url": "https://startups.gallery/investors/shinhan-venture-investment"
+    },
+    {
+      "name": "Shopify Ventures",
+      "profile_url": "https://startups.gallery/investors/shopify-ventures"
+    },
+    {
+      "name": "Shrug Capital",
+      "profile_url": "https://startups.gallery/investors/shrug-capital"
+    },
+    {
+      "name": "SIERRA Ventures",
+      "profile_url": "https://startups.gallery/investors/sierra-ventures"
+    },
+    {
+      "name": "SignalFire",
+      "profile_url": "https://startups.gallery/investors/signalfire"
+    },
+    {
+      "name": "Silas Capital",
+      "profile_url": "https://startups.gallery/investors/silas-capital"
+    },
+    {
+      "name": "Silicon Catalyst",
+      "profile_url": "https://startups.gallery/investors/silicon-catalyst"
+    },
+    {
+      "name": "Singular VC",
+      "profile_url": "https://startups.gallery/investors/singular-vc"
+    },
+    {
+      "name": "Sixth Street",
+      "profile_url": "https://startups.gallery/investors/sixth-street"
+    },
+    {
+      "name": "Slow Ventures",
+      "profile_url": "https://startups.gallery/investors/slow-ventures"
+    },
+    {
+      "name": "Smash Capital",
+      "profile_url": "https://startups.gallery/investors/smash-capital"
+    },
+    {
+      "name": "Snowflake Ventures",
+      "profile_url": "https://startups.gallery/investors/snowflake-ventures"
+    },
+    {
+      "name": "Snowpoint",
+      "profile_url": "https://startups.gallery/investors/snowpoint"
+    },
+    {
+      "name": "SNR",
+      "profile_url": "https://startups.gallery/investors/snr"
+    },
+    {
+      "name": "Socii Capital",
+      "profile_url": "https://startups.gallery/investors/socii-capital"
+    },
+    {
+      "name": "Socium Ventures",
+      "profile_url": "https://startups.gallery/investors/socium-ventures"
+    },
+    {
+      "name": "Sofina",
+      "profile_url": "https://startups.gallery/investors/sofina"
+    },
+    {
+      "name": "SoftBank Vision Fund",
+      "profile_url": "https://startups.gallery/investors/softbank-vision-fund"
+    },
+    {
+      "name": "Soma Capital",
+      "profile_url": "https://startups.gallery/investors/soma-capital"
+    },
+    {
+      "name": "Sorenson Capital",
+      "profile_url": "https://startups.gallery/investors/sorenson-capital"
+    },
+    {
+      "name": "Sound Ventures",
+      "profile_url": "https://startups.gallery/investors/sound-ventures"
+    },
+    {
+      "name": "South Park Commons",
+      "profile_url": "https://startups.gallery/investors/south-park-commons"
+    },
+    {
+      "name": "Sozo Ventures",
+      "profile_url": "https://startups.gallery/investors/sozo-ventures"
+    },
+    {
+      "name": "Spacecadet",
+      "profile_url": "https://startups.gallery/investors/spacecadet"
+    },
+    {
+      "name": "Spark Capital",
+      "profile_url": "https://startups.gallery/investors/spark-capital"
+    },
+    {
+      "name": "Speedinvest",
+      "profile_url": "https://startups.gallery/investors/speedinvest"
+    },
+    {
+      "name": "Spiral Capital",
+      "profile_url": "https://startups.gallery/investors/spiral-capital"
+    },
+    {
+      "name": "Sprints Capital",
+      "profile_url": "https://startups.gallery/investors/sprints-capital"
+    },
+    {
+      "name": "Square Peg",
+      "profile_url": "https://startups.gallery/investors/square-peg"
+    },
+    {
+      "name": "Stage 2 Capital",
+      "profile_url": "https://startups.gallery/investors/stage-2-capital"
+    },
+    {
+      "name": "StageOne Ventures",
+      "profile_url": "https://startups.gallery/investors/stageone-ventures"
+    },
+    {
+      "name": "Standard Capital",
+      "profile_url": "https://startups.gallery/investors/standard-capital"
+    },
+    {
+      "name": "Standard Crypto",
+      "profile_url": "https://startups.gallery/investors/standard-crypto"
+    },
+    {
+      "name": "Starship Ventures",
+      "profile_url": "https://startups.gallery/investors/starship-ventures"
+    },
+    {
+      "name": "Steadview Capital",
+      "profile_url": "https://startups.gallery/investors/steadview-capital"
+    },
+    {
+      "name": "Stellation Capital",
+      "profile_url": "https://startups.gallery/investors/stellation-capital"
+    },
+    {
+      "name": "StepStone Group",
+      "profile_url": "https://startups.gallery/investors/stepstone-group"
+    },
+    {
+      "name": "Sterling Road",
+      "profile_url": "https://startups.gallery/investors/sterling-road"
+    },
+    {
+      "name": "Streamlined Ventures",
+      "profile_url": "https://startups.gallery/investors/streamlined-ventures"
+    },
+    {
+      "name": "Stripe",
+      "profile_url": "https://startups.gallery/investors/stripe"
+    },
+    {
+      "name": "Stripes",
+      "profile_url": "https://startups.gallery/investors/stripes"
+    },
+    {
+      "name": "Summit Partners",
+      "profile_url": "https://startups.gallery/investors/summit-partners"
+    },
+    {
+      "name": "Sunflower Capital",
+      "profile_url": "https://startups.gallery/investors/sunflower-capital"
+    },
+    {
+      "name": "Supernode Global",
+      "profile_url": "https://startups.gallery/investors/supernode-global"
+    },
+    {
+      "name": "Surface Ventures",
+      "profile_url": "https://startups.gallery/investors/surface-ventures"
+    },
+    {
+      "name": "SuRo Capital",
+      "profile_url": "https://startups.gallery/investors/suro-capital"
+    },
+    {
+      "name": "Susa Ventures",
+      "profile_url": "https://startups.gallery/investors/susa-ventures"
+    },
+    {
+      "name": "Sutter Hill Ventures",
+      "profile_url": "https://startups.gallery/investors/sutter-hill-ventures"
+    },
+    {
+      "name": "SV Angel",
+      "profile_url": "https://startups.gallery/investors/sv-angel"
+    },
+    {
+      "name": "Sweater",
+      "profile_url": "https://startups.gallery/investors/sweater"
+    },
+    {
+      "name": "Tandem Venture Partners",
+      "profile_url": "https://startups.gallery/investors/tandem-venture-partners"
+    },
+    {
+      "name": "TCV",
+      "profile_url": "https://startups.gallery/investors/tcv"
+    },
+    {
+      "name": "Team Ignite Ventures",
+      "profile_url": "https://startups.gallery/investors/team-ignite-ventures"
+    },
+    {
+      "name": "Telescope Partners",
+      "profile_url": "https://startups.gallery/investors/telescope-partners"
+    },
+    {
+      "name": "Temasek",
+      "profile_url": "https://startups.gallery/investors/temasek"
+    },
+    {
+      "name": "Terrain",
+      "profile_url": "https://startups.gallery/investors/terrain"
+    },
+    {
+      "name": "The General Partnership",
+      "profile_url": "https://startups.gallery/investors/the-general-partnership"
+    },
+    {
+      "name": "The Longevity Fund",
+      "profile_url": "https://startups.gallery/investors/the-longevity-fund"
+    },
+    {
+      "name": "The Syndicate",
+      "profile_url": "https://startups.gallery/investors/the-syndicate"
+    },
+    {
+      "name": "Theory Ventures",
+      "profile_url": "https://startups.gallery/investors/theory-ventures"
+    },
+    {
+      "name": "Think + Ventures",
+      "profile_url": "https://startups.gallery/investors/think-ventures"
+    },
+    {
+      "name": "Third Kind Venture Capital",
+      "profile_url": "https://startups.gallery/investors/third-kind-venture-capital"
+    },
+    {
+      "name": "Third Nature Investments",
+      "profile_url": "https://startups.gallery/investors/third-nature-investments"
+    },
+    {
+      "name": "Third Point Ventures",
+      "profile_url": "https://startups.gallery/investors/third-point-ventures"
+    },
+    {
+      "name": "Third Prime",
+      "profile_url": "https://startups.gallery/investors/third-prime"
+    },
+    {
+      "name": "Thoma Bravo",
+      "profile_url": "https://startups.gallery/investors/thoma-bravo"
+    },
+    {
+      "name": "Threshold Ventures",
+      "profile_url": "https://startups.gallery/investors/threshold-ventures"
+    },
+    {
+      "name": "Thrive Capital",
+      "profile_url": "https://startups.gallery/investors/thrive-capital"
+    },
+    {
+      "name": "Tiger Global Management",
+      "profile_url": "https://startups.gallery/investors/tiger-global-management"
+    },
+    {
+      "name": "Titanium Ventures",
+      "profile_url": "https://startups.gallery/investors/titanium-ventures"
+    },
+    {
+      "name": "Together Fund",
+      "profile_url": "https://startups.gallery/investors/together-fund"
+    },
+    {
+      "name": "Tola Capital",
+      "profile_url": "https://startups.gallery/investors/tola-capital"
+    },
+    {
+      "name": "Topology Ventures",
+      "profile_url": "https://startups.gallery/investors/topology-ventures"
+    },
+    {
+      "name": "Touring Capital",
+      "profile_url": "https://startups.gallery/investors/touring-capital"
+    },
+    {
+      "name": "TQ Ventures",
+      "profile_url": "https://startups.gallery/investors/tq-ventures"
+    },
+    {
+      "name": "Transition",
+      "profile_url": "https://startups.gallery/investors/transition"
+    },
+    {
+      "name": "Treble Capital",
+      "profile_url": "https://startups.gallery/investors/treble-capital"
+    },
+    {
+      "name": "Tribe Capital",
+      "profile_url": "https://startups.gallery/investors/tribe-capital"
+    },
+    {
+      "name": "True Ventures",
+      "profile_url": "https://startups.gallery/investors/true-ventures"
+    },
+    {
+      "name": "Trust Ventures",
+      "profile_url": "https://startups.gallery/investors/trust-ventures"
+    },
+    {
+      "name": "TSIC",
+      "profile_url": "https://startups.gallery/investors/tiny-supercomputer-investment-company"
+    },
+    {
+      "name": "Twenty Two",
+      "profile_url": "https://startups.gallery/investors/twenty-two"
+    },
+    {
+      "name": "TWG Global",
+      "profile_url": "https://startups.gallery/investors/twg-global"
+    },
+    {
+      "name": "Two Sigma Ventures",
+      "profile_url": "https://startups.gallery/investors/two-sigma-ventures"
+    },
+    {
+      "name": "Uncork Capital",
+      "profile_url": "https://startups.gallery/investors/uncork-capital"
+    },
+    {
+      "name": "Uncorrelated Ventures",
+      "profile_url": "https://startups.gallery/investors/uncorrelated-ventures"
+    },
+    {
+      "name": "Union Square Ventures",
+      "profile_url": "https://startups.gallery/investors/union-square-ventures"
+    },
+    {
+      "name": "Unusual Ventures",
+      "profile_url": "https://startups.gallery/investors/unusual-ventures"
+    },
+    {
+      "name": "Upfront Ventures",
+      "profile_url": "https://startups.gallery/investors/upfront-ventures"
+    },
+    {
+      "name": "UpHonest Capital",
+      "profile_url": "https://startups.gallery/investors/uphonest-capital"
+    },
+    {
+      "name": "USIT",
+      "profile_url": "https://startups.gallery/investors/united-states-innovative-technology"
+    },
+    {
+      "name": "USVP",
+      "profile_url": "https://startups.gallery/investors/usvp"
+    },
+    {
+      "name": "V1.VC",
+      "profile_url": "https://startups.gallery/investors/v1-vc"
+    },
+    {
+      "name": "Valar Ventures",
+      "profile_url": "https://startups.gallery/investors/valar-ventures"
+    },
+    {
+      "name": "Valor Equity Partners",
+      "profile_url": "https://startups.gallery/investors/valor-equity-partners"
+    },
+    {
+      "name": "Vanquish",
+      "profile_url": "https://startups.gallery/investors/vanquish"
+    },
+    {
+      "name": "Varsity",
+      "profile_url": "https://startups.gallery/investors/varsity"
+    },
+    {
+      "name": "Venrex",
+      "profile_url": "https://startups.gallery/investors/venrex"
+    },
+    {
+      "name": "Venrock",
+      "profile_url": "https://startups.gallery/investors/venrock"
+    },
+    {
+      "name": "Vesey Ventures",
+      "profile_url": "https://startups.gallery/investors/vesey-ventures"
+    },
+    {
+      "name": "Village Global",
+      "profile_url": "https://startups.gallery/investors/village-global"
+    },
+    {
+      "name": "Vine Ventures",
+      "profile_url": "https://startups.gallery/investors/vine-ventures"
+    },
+    {
+      "name": "Vinyl Capital",
+      "profile_url": "https://startups.gallery/investors/vinyl-vc"
+    },
+    {
+      "name": "Visionaries Club",
+      "profile_url": "https://startups.gallery/investors/visionaries-club"
+    },
+    {
+      "name": "VMG Partners",
+      "profile_url": "https://startups.gallery/investors/vmg-partners"
+    },
+    {
+      "name": "Voyager Ventures",
+      "profile_url": "https://startups.gallery/investors/voyager-ventures"
+    },
+    {
+      "name": "Vy Capital",
+      "profile_url": "https://startups.gallery/investors/vy-capital"
+    },
+    {
+      "name": "Wa'ed Ventures",
+      "profile_url": "https://startups.gallery/investors/wa-ed-ventures"
+    },
+    {
+      "name": "Watertower Ventures",
+      "profile_url": "https://startups.gallery/investors/watertower-ventures"
+    },
+    {
+      "name": "Wayfinder Ventures",
+      "profile_url": "https://startups.gallery/investors/wayfinder-ventures"
+    },
+    {
+      "name": "Weekend Fund",
+      "profile_url": "https://startups.gallery/investors/weekend-fund"
+    },
+    {
+      "name": "Wellington",
+      "profile_url": "https://startups.gallery/investors/wellington"
+    },
+    {
+      "name": "WestCap",
+      "profile_url": "https://startups.gallery/investors/westcap"
+    },
+    {
+      "name": "Whitecap Venture Partners",
+      "profile_url": "https://startups.gallery/investors/whitecap-venture-partners"
+    },
+    {
+      "name": "Wikus Ventures",
+      "profile_url": "https://startups.gallery/investors/wikus-ventures"
+    },
+    {
+      "name": "Will Ventures",
+      "profile_url": "https://startups.gallery/investors/will-ventures"
+    },
+    {
+      "name": "Wing VC",
+      "profile_url": "https://startups.gallery/investors/wing-vc"
+    },
+    {
+      "name": "Wireframe VC",
+      "profile_url": "https://startups.gallery/investors/wireframe-vc"
+    },
+    {
+      "name": "Wisdom Ventures",
+      "profile_url": "https://startups.gallery/investors/wisdom-ventures"
+    },
+    {
+      "name": "WndrCo",
+      "profile_url": "https://startups.gallery/investors/wndrco"
+    },
+    {
+      "name": "Workday Ventures",
+      "profile_url": "https://startups.gallery/investors/workday-ventures"
+    },
+    {
+      "name": "World Innovation Lab",
+      "profile_url": "https://startups.gallery/investors/world-innovation-lab"
+    },
+    {
+      "name": "Worldbuild",
+      "profile_url": "https://startups.gallery/investors/worldbuild"
+    },
+    {
+      "name": "XAnge",
+      "profile_url": "https://startups.gallery/investors/xange"
+    },
+    {
+      "name": "XTX Ventures",
+      "profile_url": "https://startups.gallery/investors/xtx-ventures"
+    },
+    {
+      "name": "XYZ",
+      "profile_url": "https://startups.gallery/investors/xyz"
+    },
+    {
+      "name": "Y Combinator",
+      "profile_url": "https://startups.gallery/investors/y-combinator"
+    },
+    {
+      "name": "York IE",
+      "profile_url": "https://startups.gallery/investors/york-ie"
+    },
+    {
+      "name": "Zeev Ventures",
+      "profile_url": "https://startups.gallery/investors/zeev-ventures"
+    },
+    {
+      "name": "Zeno Partners",
+      "profile_url": "https://startups.gallery/investors/zeno-partners"
+    },
+    {
+      "name": "Zigg Capital",
+      "profile_url": "https://startups.gallery/investors/zigg-capital"
+    },
+    {
+      "name": "Zinal Growth",
+      "profile_url": "https://startups.gallery/investors/zinal-growth"
+    }
+  ],
+  "plan": {
+    "recordSelector": "a.framer-sb9jpt",
+    "fields": [
+      {
+        "name": "name",
+        "selector": "h2",
+        "attribute": "text"
+      },
+      {
+        "name": "profile_url",
+        "selector": "",
+        "attribute": "href"
+      }
+    ],
+    "nextPageSelector": null,
+    "loadMoreSelector": null
+  },
+  "metrics": {
+    "rawBytes": 298934,
+    "rawTokens": 100344,
+    "sampleTokens": 4685,
+    "llm": {
+      "calls": 0,
+      "suppliedPlan": true
+    },
+    "traversal": {
+      "stopReason": "stable-after-scroll",
+      "steps": 27,
+      "pages": 1
+    }
+  },
+  "coverage": "All observed records through bounded browser traversal; inspect stopReason. Stability is not proof of server-side completeness."
+}

@@ -1,0 +1,13 @@
+{
+  "source": "https://startups.gallery/investors",
+  "sitemap": "https://startups.gallery/sitemap.xml",
+  "verifiedAt": "2026-10-06T23:27:40.520327+00:00",
+  "extractedProfiles": 692,
+  "sitemapProfiles": 692,
+  "uniqueNames": 692,
+  "missingProfiles": [],
+  "extraProfiles": [],
+  "sitemapSha256": "69c99aa086a611fad88ed0285a6c2d6fc3f04a609a0ff70b397a79d901dcc7dd",
+  "sampleTokenReductionPercent": 95.33,
+  "planOrigin": "Assistant generated from observed compact DOM; no live OpenAI API call."
+}
